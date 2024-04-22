@@ -1,0 +1,3 @@
+[submodule "Ruslit"]
+	path = Ruslit
+	url = https://github.com/d0rj/RusLit
