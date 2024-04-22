@@ -1,3 +1,3 @@
-[submodule "Ruslit"]
-	path = Ruslit
+[submodule "RusLit"]
+	path = RusLit
 	url = https://github.com/d0rj/RusLit
