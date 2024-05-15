@@ -1,657 +1,2053 @@
 name,year,author,type,genres
-Соловьиный сад,1915,Blok,poems,"Poem, Lyric, Symbolism 
-"
-Двенадцать,1918,Blok,poems,"poem, epic, modernist, symbolist 
-"
-Скифы,1918,Blok,poems,"History, Anthropology 
-"
-Возмездие,1921,Blok,poems,"Poem, Epic, Tragedy, History, Philosophy 
-"
-19 октября,1825,Pushkin,poems,"Elegy, Ode, Lyric, Romantic, Poetry 
-"
-Анчар,1828,Pushkin,poems,"Poetry, Fiction 
-"
-Борис Годунов,1824,Pushkin,poems,"Opera, Historical Fiction 
-"
-Во глубине сибирских руд...,1827,Pushkin,poems,"Poetry, exile, hope 
-"
-Деревня,1819,Pushkin,poems,"Poetry, Ode 
-"
-Евгений Онегин,1823,Pushkin,poems,"Novel, Verse, Fiction 
-"
-Зимнее утро,1829,Pushkin,poems,"Poetry, Lyric, Romantic, Winter, Nature 
-"
-К морю,1824,Pushkin,poems,"Elegy, Ode, Lyric poem 
-"
-К Чаадаеву,1818,Pushkin,poems,"Lyric poetry, Ode, Political poetry 
-"
-К,1825,Pushkin,poems,"Poetry, Lyric, Romantic 
-"
-Каменный гость,1830,Pushkin,poems,"Drama, Poetry, Play, Tragedy 
-"
-Медный всадник,1833,Pushkin,poems,"Poem, Fiction, Historical Fiction 
-"
-Моцарт и Сальери,1830,Pushkin,poems,"Play, Drama, Verse 
-"
-На холмах Грузии лежит ночная мгла...,1829,Pushkin,poems,"poetry, lyric, romance 
-"
-Песнь о вещем Олеге,1822,Pushkin,poems,"Poem, Ballad, Legend 
-"
-Пир во время чумы,1830,Pushkin,poems,"Drama, Poetry 
-"
-Поэт,1827,Pushkin,poems,"Poetry, Lyric, Ode 
-"
-Пророк,1826,Pushkin,poems,"Poem, Prophecy 
-"
-Сказка о золотом петушке,1834,Pushkin,poems,"Fairytale, Poem, Fiction 
-"
-Сказка о мёртвой царевне,1833,Pushkin,poems,"Fairy tale, poem 
-"
-Сказка о медведихе,1830,Pushkin,poems,"Folklore, Children's Literature, Poem 
-"
-Сказка о попе и работнике его Балде,1830,Pushkin,poems,"Folklore, Tale, Fable 
-"
-Сказка о рыбаке и рыбке,1833,Pushkin,poems,"Fairy tale, poem 
-"
-Сказка о царе Салтане,1831,Pushkin,poems,"Fairy tale, poem, fantasy 
-"
-Скупой рыцарь,1830,Pushkin,poems,"Drama, Tragedy, Play, Verse 
-"
-Узник,1822,Pushkin,poems,"Poem, Lyric, Romantic, Elegy 
-"
-Элегия (Безумных лет угасшее веселье...),1830,Pushkin,poems,"Elegy, Lyric, Poetry 
-"
-Элегия (Воспоминаньем упоенный...),1819,Pushkin,poems,"Elegy, Poem 
-"
-"Элегия (Опять я ваш, о юные друзья...)",1817,Pushkin,poems,"Elegy, Lyric, Romantic, Poem 
-"
-"Элегия (Счастлив, кто в страсти сам себе...)",1816,Pushkin,poems,"Elegy, Poetry 
-"
-"Элегия (Я думал, что любовь погасла навсегда...)",1816,Pushkin,poems,"Elegy, Lyric, Romantic, Poetry 
-"
-Элегия на смерть Анны Львовны,1825,Pushkin,poems,"Elegy, Poetry 
-"
-"Я вас любил любовь ещё, быть может,...",1829,Pushkin,poems,"poetry, love 
-"
-Я памятник себе воздвиг нерукотворный,1836,Pushkin,poems,"Ode, Elegy 
-"
-Carthago Delenda Est,1896,Tolstoy,publicism,"Essay, Commentary, Polemic 
-"
-Бессмысленные мечтания,1891,Tolstoy,publicism,"Commentary, Polemic, Philosophy, Political"
-Богу или маммоне,1895,Tolstoy,publicism,"Essay, Religious, Persuasive 
-"
-Два письма к М.Ганди,1909,Tolstoy,publicism,"Correspondence, Philosophy, Religion 
-"
-Две войны,1898,Tolstoy,publicism,"Essay, Letter, Polemic 
-"
-"Доклад, приготовленный для конгресса о мире в Стокгольме",1909,Tolstoy,publicism,"Philosophy, Theology, Political Science 
-"
-Исповедь,1882,Tolstoy,publicism,"Autobiography, Philosophy, Spirituality 
-"
-Не могу молчать (1-я редакция),1908,Tolstoy,publicism,"Philosophy, Commentary, Political, Religious 
-"
-Неделание,1893,Tolstoy,publicism,"Instructional, Technical 
-"
-О безумии,1910,Tolstoy,publicism,"Philosophy, Psychology, Religion, Sociology 
-"
-О веротерпимости,1901,Tolstoy,publicism,"Philosophy, Religion, Politics 
-"
-О науке (Ответ  крестьянину),1909,Tolstoy,publicism,"Epistle, philosophy, social commentary 
-"
-О социализме,1910,Tolstoy,publicism,"Philosophy, Economics, Politics, Religion 
-"
-Ответ польской женщине,1909,Tolstoy,publicism,"Letter, Essay, Polemic 
-"
-Патриотизм и правительство,1900,Tolstoy,publicism,"Politics, Philosophy 
-"
-Патриотизм или мир,1896,Tolstoy,publicism,"Essay, Letter, Polemic 
-"
-Первая ступень,1891,Tolstoy,publicism,"Science fiction, Fantasy 
-"
-Письмо революционеру,1909,Tolstoy,publicism,"Epistle, Polemic, Philosophical 
-"
-Письмо студенту о праве,1909,Tolstoy,publicism,"Epistolary, Polemic, Philosophy 
-"
-По поводу заключения В.А. Молчникова,1908,Tolstoy,publicism,"Philosophy, Law, Politics, Religion, Autobiography, Commentary 
-"
-Почему христианские народы вообще и в особенности русский находятся теперь в бедственном положении,1907,Tolstoy,publicism,"Philosophy, Religion, Politics, History 
-"
-Приближение конца,1896,Tolstoy,publicism,"Essay, Letter, Philosophy, Polemic 
-"
-Славянскому съезду,1910,Tolstoy,publicism,"Essay, Letter 
-"
-Студенческое движение 1899 года,1899,Tolstoy,publicism,"Historical, Political, Commentary 
-"
-Удивительные существа,1909,Tolstoy,publicism,"Satire, Fiction, Philosophy 
-"
-Церковь и государство,1891,Tolstoy,publicism,"Philosophy, Religion, History, Polemic 
-"
-Бедные люди,1846,Dostoevsky,prose,"Fiction, Drama 
-"
-Белые ночи,1848,Dostoevsky,prose,"Novel, Fiction 
-"
-Бесы,1872,Dostoevsky,prose,"Novel, Fiction, Philosophy, Political, Religious 
-"
-Бобок,1873,Dostoevsky,prose,"Fiction, Satire, Philosophy 
-"
-Братья Карамазовы,1881,Dostoevsky,prose,"Novel, Fiction, Philosophy, Theology, Crime, Drama 
-"
-Вечный муж,1870,Dostoevsky,prose,"Fiction, Novella, Satire 
-"
-Господин Прохарчин,1847,Dostoevsky,prose,"Fiction, Novella, Satire 
-"
-Два самоубийства,1876,Dostoevsky,prose,"Fiction, Philosophy, Commentary 
-"
-Двойник,1846,Dostoevsky,prose,"Instructional, Technical 
-"
-Дневник писателя,1881,Dostoevsky,prose,"Literature, Nonfiction 
-"
-Домовой,1880,Dostoevsky,prose,"Fiction, Historical Fiction 
-"
-Дядюшкин сон,1859,Dostoevsky,prose,"Comedy, Satire 
-"
-Ёлка и свадьба,1848,Dostoevsky,prose,"Fiction, Short Story 
-"
-Записки из подполья,1864,Dostoevsky,prose,"Philosophical fiction, Psychological fiction 
-"
-Игрок,1866,Dostoevsky,prose,"Fiction, Novella, Realism, Satire 
-"
-Идиот,1868,Dostoevsky,prose,"Novel, Fiction, Literature, Classic, Russian"
-Короткая,1876,Dostoevsky,prose,"Instructional, Technical 
-"
-Крокодил,1865,Dostoevsky,prose,"Animal, Reptile 
-"
-Маленький герой,1857,Dostoevsky,prose,"Children's Literature, Fantasy 
-"
-Мальчик у Христа на ёлке,1876,Dostoevsky,prose,"Fiction, Short story, Realism, Drama 
-"
-Неточка Незванова,1849,Dostoevsky,prose,"Fiction, Novella, Historical, Romance 
-"
-Петербургские сновидения в стихах и в прозе,1861,Dostoevsky,prose,"Fiction, Satire, Commentary 
-"
-Подросток,1875,Dostoevsky,prose,"Novel, Fiction, Historical fiction 
-"
-Ползунков,1848,Dostoevsky,prose,"Fiction, Satire, Comedy 
-"
-Роман в девяти письмах,1847,Dostoevsky,prose,"Fiction, Epistolary, Satire 
-"
-Село Степанчиково и его обитатели,1859,Dostoevsky,prose,"Satire, Comedy, Fiction 
-"
-Скверный анекдот,1862,Dostoevsky,prose,"Humor, Joke 
-"
-Слабое сердце,1848,Dostoevsky,prose,"Fiction, Novella, Romance 
-"
-Сон смешного человека,1877,Dostoevsky,prose,"Short Story, Fiction, Russian Literature 
-"
-Униженные и оскорблённые,1861,Dostoevsky,prose,"Novel, Fiction, Historical Fiction 
-"
-Хозяйка,1847,Dostoevsky,prose,"Fiction, Novella 
-"
-Честный вор,1860,Dostoevsky,prose,"Fiction, Short story, Realism, Tragedy 
-"
-Чужая жена и муж под кроватью,1848,Dostoevsky,prose,"Comedy, Satire 
-"
-Агафья,1886,Chekhov,prose,"Fiction, Realism, Short Story 
-"
-Альбом,1885,Chekhov,prose,"Satire, Comedy, Fiction 
-"
-Анна на шее,1895,Chekhov,prose,"Fiction, Realism, Satire 
-"
-Анюта,1886,Chekhov,prose,"Fiction, Realism, Slice of Life 
-"
-Аптекарша,1886,Chekhov,prose,"Fiction, Humor, Satire 
-"
-Ариадна,1895,Chekhov,prose,"Fiction, Novella, Realism, Satire 
-"
-Архиерей,1902,Chekhov,prose,"Fiction, Novella, Realism 
-"
-"Ах, зубы",1886,Chekhov,prose,"Humor, Fiction 
-"
-Бабы,1891,Chekhov,prose,"Fiction, Realism, Short story 
-"
-Баран и барышня,1883,Chekhov,prose,"Fiction, Satire, Comedy 
-"
-Барыня,1882,Chekhov,prose,"Instruction, Introduction 
-"
-Беглец,1887,Chekhov,prose,"Fiction, Short Story 
-"
-Беда 1886,1886,Chekhov,prose,"Fiction, Drama, Realism 
-"
-Беда 1887,1887,Chekhov,prose,"Fiction, Drama, Tragedy 
-"
-Беззащитное существо,1887,Chekhov,prose,"Satire, Comedy, Fiction 
-"
-Белолобый,1895,Chekhov,prose,"Fiction, Allegory 
-"
-Беседа пьяного с трезвым чёртом,1886,Chekhov,prose,"Satire, Comedy, Fantasy 
-"
-Брак по расчёту,1884,Chekhov,prose,"Satire, Comedy, Fiction 
-"
-Брожение умов,1884,Chekhov,prose,"Satire, Comedy, Fiction 
-"
-Бумажник,1885,Chekhov,prose,"Satire, Comedy, Fiction 
-"
-В аптеке,1885,Chekhov,prose,"Fiction, Humor, Satire 
-"
-В вагоне,1881,Chekhov,prose,"Humor, Satire, Fiction 
-"
-В овраге,1900,Chekhov,prose,"Fiction, Realism, Tragedy 
-"
-В потёмках,1886,Chekhov,prose,"Fiction, Comedy, Satire 
-"
-В ссылке,1892,Chekhov,prose,"Fiction, Realism, Short story 
-"
-В суде,1886,Chekhov,prose,"Fiction, Drama, Crime 
-"
-Ванька,1886,Chekhov,prose,"Fiction, Realism, Historical Fiction 
-"
-Ведьма,1886,Chekhov,prose,"Fiction, Drama, Horror 
-"
-Верочка,1887,Chekhov,prose,"Fiction, Romance, Short Story 
-"
-Винт,1884,Chekhov,prose,"Fiction, Satire, Comedy 
-"
-Вишнёвый сад,1904,Chekhov,prose,"Play, Drama 
-"
-Водевиль,1884,Chekhov,prose,"Fiction, Comedy, Satire 
-"
-Володя,1887,Chekhov,prose,"Fiction, Drama, Tragedy 
-"
-Восклицательный знак,1885,Chekhov,prose,"Fiction, Comedy, Satire 
-"
-Враги,1887,Chekhov,prose,"Fiction, Short story 
-"
-Встреча весны,1882,Chekhov,prose,"Essay, Humor, Satire 
-"
-Выигрышный билет,1887,Chekhov,prose,"Fiction, Short Story 
-"
-Глупый француз,1886,Chekhov,prose,"Humor, Fiction 
-"
-Горе,1885,Chekhov,prose,"Fiction, Drama, Realism 
-"
-Гость,1885,Chekhov,prose,"Humor, Fiction 
-"
-Грешник из Толедо,1881,Chekhov,prose,"Fiction, Historical Fiction, Short Story 
-"
-Гриша,1886,Chekhov,prose,"Fiction, Short story 
-"
-Гусев,1890,Chekhov,prose,"Fiction, Short Story, Realism 
-"
-Дама с собачкой,1899,Chekhov,prose,"Romance, Fiction 
-"
-Дачники,1885,Chekhov,prose,"Fiction, Humor, Satire 
-"
-Дачница,1884,Chekhov,prose,"Fiction, Realism, Short Story 
-"
-Два скандала,1882,Chekhov,prose,"Fiction, Comedy, Romance 
-"
-Двадцать девятое июня,1881,Chekhov,prose,"Fiction, Humor, Satire 
-"
-День за городом,1886,Chekhov,prose,"Fiction, Realism, Slice of life 
-"
-Детвора,1886,Chekhov,prose,"Fiction, Realism, Slice-of-life 
-"
-Дипломат,1885,Chekhov,prose,"Comedy, Satire 
-"
-Добрый знакомый,1882,Chekhov,prose,"Fiction, Humor, Romance 
-"
-Дом с мезонином,1896,Chekhov,prose,"Fiction, Short story 
-"
-Дома,1887,Chekhov,prose,"Fiction, Short story 
-"
-Дополнительные вопросы,1882,Chekhov,prose,"Humor, Survey, Satire 
-"
-Дорогая собака,1885,Chekhov,prose,"Fiction, Humor, Satire 
-"
-Дорогие уроки,1887,Chekhov,prose,"Fiction, Humor, Romance 
-"
-Дочь Альбиона,1883,Chekhov,prose,"Humor, Satire 
-"
-Душечка,1899,Chekhov,prose,"Fiction, Romance, Slice of Life 
-"
-Дуэль,1891,Chekhov,prose,"Fiction, Fantasy 
-"
-Злоумышленник,1885,Chekhov,prose,"Fiction, Satire, Comedy 
-"
-Ионыч,1898,Chekhov,prose,"fiction, science fiction 
-"
-Каштанка,1887,Chekhov,prose,"Fiction, Short story, Children's literature 
-"
-Крыжовник,1898,Chekhov,prose,"Fiction, Short Story 
-"
-Лошадиная фамилия,1885,Chekhov,prose,"Fiction, Comedy, Satire 
-"
-Налим,1885,Chekhov,prose,"Humor, Satire, Realism 
-"
-О любви,1898,Chekhov,prose,"Fiction, Romance, Tragedy 
-"
-Палата №6,1892,Chekhov,prose,"Fiction, Novella, Psychological, Satire 
-"
-Пересолил,1885,Chekhov,prose,"Humor, Fiction, Satire 
-"
-Смерть чиновника,1883,Chekhov,prose,"Satire, Comedy, Fiction 
-"
-Толстый и тонкий,1883,Chekhov,prose,"Satire, Comedy, Fiction 
-"
-Тоска,1886,Chekhov,prose,"Fiction, Realism, Tragedy 
-"
-Три сестры,1901,Chekhov,prose,"Drama, Play 
-"
-Хамелеон,1884,Chekhov,prose,"Satire, Comedy, Fiction 
-"
-Хирургия,1884,Chekhov,prose,"Fiction, Comedy, Satire 
-"
-Человек в футляре,1898,Chekhov,prose,"Fiction, Satire, Realism 
-"
-Доктор Крупов,1847,Herzen,prose,"Science fiction, Thriller 
-"
-Долг прежде всего,1851,Herzen,prose,"Duty, Honor 
-"
-Елена,1838,Herzen,prose,"Instructional, Technical 
-"
-Кто виноват,1846,Herzen,prose,"Novel, Fiction, Romance, Historical Fiction 
-"
-Легенда,1836,Herzen,prose,"Fantasy, Adventure 
-"
-Мимоездом,1846,Herzen,prose,"Fiction, Satire 
-"
-С того берега,1851,Herzen,prose,"Fiction, Mystery 
-"
-Скуки ради,1869,Herzen,prose,"Instructional, Introduction, Fiction 
-"
-Сорока-воровка,1848,Herzen,prose,"Fiction, Drama, Novella 
-"
-Трагедия за стаканом грога,1864,Herzen,prose,"Fiction, Drama, Tragedy 
-"
-Вечера на хуторе близ Диканьки,1831,Gogol,prose,"Fiction, Folklore, Mythology 
-"
-Вий,1835,Gogol,prose,"Instructional, Technical, Biographical 
-"
-Записки сумасшедшего,1835,Gogol,prose,"Fiction, Drama 
-"
-Коляска,1835,Gogol,prose,"Satire, Comedy, Fiction 
-"
-Мёртвые души,1842,Gogol,prose,"Fiction, Novel, Satire 
-"
-Невский проспект,1833,Gogol,prose,"Fiction, Short story, Satire 
-"
-Нос,1835,Gogol,prose,"Satire, Fiction, Absurdist 
-"
-Ночи на вилле,1839,Gogol,prose,"Elegy, Memoir, Necrology 
-"
-Ночь перед Рождеством,1832,Gogol,prose,"Folklore, Fantasy, Romance 
-"
-"Повесть о том, как поссорился Иван Иванович с Иваном Никифоровичем",1835,Gogol,prose,"Satire, Comedy, Fiction 
-"
-Портрет,1833,Gogol,prose,"Fiction, Horror, Historical Fiction 
-"
-Ревизор,1836,Gogol,prose,"Comedy, Satire, Play 
-"
-Рим,1842,Gogol,prose,"Fiction, Novel, Historical Fiction 
-"
-Старосветские помещики,1835,Gogol,prose,"Novella, Fiction 
-"
-Тарас Бульба,1835,Gogol,prose,"Historical, Fiction 
-"
-Шинель,1842,Gogol,prose,"Fiction, Drama, Satire 
-"
-Ашик-Кериб,1846,Lermontov,prose,"Folklore, Fairytale, Romance 
-"
-Герой нашего времени,1840,Lermontov,prose,"Novel, Romance, Psychological 
-"
-Штосс,1845,Lermontov,prose,"Fiction, Fantasy, Horror 
-"
-Бывшие люди,1897,Gorky,prose,"Fiction, Novella, Realism, Historical Fiction 
-"
-В людях,1915,Gorky,prose,"Instruction, Reference 
-"
-В степи,1897,Gorky,prose,"Fiction, Novella, Historical, Tragedy 
-"
-Вывод,1895,Gorky,prose,"Fiction, Allegory, Realism, Tragedy 
-"
-Город жёлтого дьявола,1906,Gorky,prose,"Fiction, Novella, Allegory 
-"
-Двадцать шесть и одна,1899,Gorky,prose,"Fiction, Allegory, Realism 
-"
-Дело с застёжками,1895,Gorky,prose,"Fiction, Satire, Comedy 
-"
-Детство,1914,Gorky,prose,"Memoir, Family 
-"
-Емельян Пиляй,1893,Gorky,prose,"Fiction, Novella, Realism, Satire 
-"
-Знахарка,1923,Gorky,prose,"Fiction, Short Story 
-"
-Коновалов,1898,Gorky,prose,"Fiction, Historical Fiction 
-"
-Ледоход,1912,Gorky,prose,"Fiction, Fantasy 
-"
-Ма-аленькая!...,1895,Gorky,prose,"Fiction, Realism, Historical fiction 
-"
-Макар Чудра,1892,Gorky,prose,"Fiction, Romance, Short Story 
-"
-Мать,1906,Gorky,prose,"Instructional, Technical 
-"
-Мещане,1901,Gorky,prose,"Fiction, Drama 
-"
-Мои университеты,1923,Gorky,prose,"Novel, Fiction, Historical Fiction 
-"
-На дне,1902,Gorky,prose,"Science Fiction, Fantasy 
-"
-На плотах,1895,Gorky,prose,"Fiction, Historical Fiction 
-"
-Несвоевременные мысли,1918,Gorky,prose,"Russian, Philosophy 
-"
-Озорник,1897,Gorky,prose,"Science fiction, Drama 
-"
-Песня о Буревестнике,1901,Gorky,prose,"Poem, Allegory 
-"
-Песня о соколе,1899,Gorky,prose,"Allegory, Fiction, Fable 
-"
-Проходимец,1898,Gorky,prose,"Science fiction, drama 
-"
-Рождение человека,1912,Gorky,prose,"Fiction, Historical Fiction 
-"
-Сказки об Италии,1913,Gorky,prose,"Children's literature, Folklore 
-"
-Скуки ради,1897,Gorky,prose,"Fiction, Realism, Tragedy 
-"
-Старуха Изергиль,1895,Gorky,prose,"Fiction, Folklore, Legend 
-"
-Страсти-мордасти,1913,Gorky,prose,"Fiction, Drama, Tragedy 
-"
-Фома Гордеев,1899,Gorky,prose,"Novel, Fiction, Historical fiction 
-"
-Челкаш,1895,Gorky,prose,"Fiction, Drama 
-"
-Человек,1903,Gorky,prose,"Philosophy, Prose, Poetry 
-"
-Ярмарка в Голтве,1897,Gorky,prose,"Fiction, Historical Fiction, Short Story 
-"
-Алёша Горшок,1905,Tolstoy,prose,"Fiction, Novella, Realism, Historical Fiction 
-"
-Альберт,1858,Tolstoy,prose,"Fiction, Novella, Realism, Psychological, Tragedy 
-"
-Анна Каренина,1877,Tolstoy,prose,"Novel, Historical Fiction, Romance, Realism 
-"
-Божеское и человеческое,1906,Tolstoy,prose,"Divine, Philosophical 
-"
-Война и мир. Том 1,1867,Tolstoy,prose,"Historical, Fiction 
-"
-Война и мир. Том 2,1868,Tolstoy,prose,"Historical, Fiction 
-"
-Война и мир. Том 3,1868,Tolstoy,prose,"Historical, Epic, Novel 
-"
-Война и мир. Том 4,1869,Tolstoy,prose,"Novel, Historical fiction, War, Romance, Philosophical fiction 
-"
-Воскресение,1899,Tolstoy,prose,"Calendar, DayOfWeek 
-"
-Два гусара,1856,Tolstoy,prose,"Adventure, Historical Fiction 
-"
-Декабристы,1860,Tolstoy,prose,"Historical fiction, Novel, Realism 
-"
-Детство,1852,Tolstoy,prose,"Childhood 
-"
-Дьявол,1889,Tolstoy,prose,"Fiction, Novella, Realism, Tragedy 
-"
-Записки маркера,1853,Tolstoy,prose,"Fiction, Novella, Drama 
-"
-Записки сумасшедшего,1903,Tolstoy,prose,"Fiction, Short story, Philosophical 
-"
-Из записок князя Д. Нехлюдова (Люцерн),1857,Tolstoy,prose,"Fiction, Novella, Philosophy 
-"
-Кавказский пленник,1872,Tolstoy,prose,"Fiction, Historical fiction, Adventure 
-"
-Казаки,1863,Tolstoy,prose,"Fiction, Historical Fiction, Novella 
-"
-Корней Васильев,1905,Tolstoy,prose,"Fiction, Historical Fiction 
-"
-Крейцерова соната,1890,Tolstoy,prose,"Novella, Fiction 
-"
-Метель,1856,Tolstoy,prose,"Fiction, Fantasy 
-"
-Набег,1853,Tolstoy,prose,"Science Fiction, Thriller 
-"
-Отец Сергий,1890,Tolstoy,prose,"Fiction, Historical, Religious, Novella 
-"
-Поликуша,1862,Tolstoy,prose,"Fiction, Historical, Realism 
-"
-После бала,1903,Tolstoy,prose,"Fiction, Short story 
-"
-Праведный судья,1910,Tolstoy,prose,"Folklore, Fiction, Fable 
-"
-Работник Емельян и пустой барабан,1910,Tolstoy,prose,"Fairy tale, Folklore 
-"
-Разжалованный,1856,Tolstoy,prose,"Instruction, Fiction 
-"
-Рубка леса,1855,Tolstoy,prose,"Fiction, Historical Fiction 
-"
-Севастополь в августе 1855 года,1855,Tolstoy,prose,"History, Military, Russia 
-"
-Севастополь в декабре месяце,1855,Tolstoy,prose,"Historical, Fiction, War, Prose 
-"
-Севастополь в мае,1855,Tolstoy,prose,"Historical Fiction, War, Realism 
-"
-Семейное счастье,1859,Tolstoy,prose,"Fiction, Novella, Romance 
-"
-Смерть Ивана Ильича,1886,Tolstoy,prose,"Fiction, Novella, Realism 
-"
-Три смерти,1859,Tolstoy,prose,"Fiction, Short story 
-"
-Утро пемещика,1856,Tolstoy,prose,"Comedy, Fiction 
-"
-Хаджи-Мурат,1896,Tolstoy,prose,"Historical fiction, War, Action 
-"
-Хозяин и работник,1895,Tolstoy,prose,"Fiction, Novella 
-"
-Холстомер,1886,Tolstoy,prose,"Fiction, novella, allegory 
-"
-Юность,1857,Tolstoy,prose,"Fiction, Novel, Historical,  Autobiographical 
-"
-Ягоды,1905,Tolstoy,prose,"Fiction, Historical Fiction 
-"
-Ася,1858,Turgenev,prose,"Instructional, Technical 
-"
-Вешние воды,1872,Turgenev,prose,"Romance, Historical Fiction 
-"
-Дворянское гнездо,1859,Turgenev,prose,"Novel, Fiction 
-"
-Дым,1867,Turgenev,prose,"Instructional, technical 
-"
-Записки охотника,1852,Turgenev,prose,"Fiction, Short stories 
-"
-Муму,1852,Turgenev,prose,"Instructional, Technical 
-"
-Отцы и дети,1862,Turgenev,prose,"Novel, Fiction 
-"
-Первая любовь,1860,Turgenev,prose,"Romance, Fiction, Historical Fiction 
-"
-Стихотворения в прозе,1878,Turgenev,prose,"Poetry, Prose 
-"
-Яков Пасынков,1855,Turgenev,prose,"Mystery, Thriller 
-"
-Алтарь победы,1912,Bryusov,prose,"Historical fiction, Fantasy, Romance 
-"
-Бемоль,1903,Bryusov,prose,"Fiction, Realism, Slice of Life 
-"
-В башне,1903,Bryusov,prose,"Fantasy, Historical Fiction 
-"
-В зеркале,1903,Bryusov,prose,"Horror, Mystery, Fantasy 
-"
-В подземной тюрьме,1903,Bryusov,prose,"Historical fiction, Romance, Tragedy 
-"
-Восстание машин,1908,Bryusov,prose,"Science fiction, Dystopian, Horror 
-"
-Гора Звезды,1899,Bryusov,prose,"Fantasy, Mystery 
-"
-Декадент,1894,Bryusov,prose,"Fantasy, Fiction 
-"
-Дитя и безумец,1902,Bryusov,prose,"Fiction, Allegory 
-"
-За себя или за другую,1910,Bryusov,prose,"Mystery, fiction, romance 
-"
-Защита,1904,Bryusov,prose,"Fiction, Short Story, Horror, Paranormal, Romance 
-"
-Моцарт,1915,Bryusov,prose,"Fiction, Novella, Romance, Tragedy 
-"
-Мраморная головка,1903,Bryusov,prose,"Fiction, Short Story 
-"
-Ночное путешествие,1908,Bryusov,prose,"Fiction, Fantasy, Horror 
-"
-Обручение Даши,1913,Bryusov,prose,"Fiction, Novella, Historical 
-"
-Огненный ангел,1908,Bryusov,prose,"Fantasy, Historical, Romance 
-"
-Первая любовь,1904,Bryusov,prose,"Fiction, Short story 
-"
-Под Старым мостом,1903,Bryusov,prose,"Fiction, Romance, Drama 
-"
-Последние мученики,1906,Bryusov,prose,"Fiction, Allegory, Dystopian 
-"
-Последние страницы из дневника женщины,1910,Bryusov,prose,"Fiction, Novella, Mystery, Romance 
-"
-Предсмертный бред Вергилия,1914,Bryusov,prose,"Fiction, Historical Fiction 
-"
-"Рассказы Маши, с реки Мологи, под городом Устюжна",1906,Bryusov,prose,"Folklore, Superstition, Horror 
-"
-Рея Сильвия,1914,Bryusov,prose,"Latin, Mythology 
-"
-Семь земных соблазнов,1911,Bryusov,prose,"Fiction, Romance, Historical Fiction, Science Fiction 
-"
-Сестры,1906,Bryusov,prose,"Fiction, Novella, Mystery 
-"
-"Теперь, - когда я проснулся...",1903,Bryusov,prose,"Horror, Fiction 
-"
-Через пятнадцать лет,1909,Bryusov,prose,"Fiction, Drama, Romance 
-"
-"Элули, сын Элули",1915,Bryusov,prose,"Fiction, Historical Fiction 
-"
-Юпитер поверженный,1934,Bryusov,prose,"Fantasy, Mythology 
-"
-Девушка розовой калитки и муравьиный царь,1906,Blok,prose,"Fiction, Allegory 
-"
-"Сказка о той, которая не поймет её",1907,Blok,prose,"Fantasy, Romance, Tragedy 
-"
-Сограждане,1918,Blok,prose,"Satire, Fiction, Humor 
-"
-"Ни сны, ни явь",1921,Blok,prose,"Fiction, Surrealism, Prose poetry 
-"
-Арап Петра Великого,1827,Pushkin,prose,"Historical, Fiction 
-"
-Дубровский,1833,Pushkin,prose,"Adventure, Historical, Romance 
-"
-Египетские ночи,1835,Pushkin,prose,"Fiction, Poetry, Drama, History, Romance 
-"
-История Пугачёва,1834,Pushkin,prose,"Historical, Fiction, Biographical 
-"
-История села Горюхина,1830,Pushkin,prose,"Fiction, History, Satire 
-"
-Капитанская дочка,1833,Pushkin,prose,"Historical, Fiction, Romance 
-"
-Кирджали,1834,Pushkin,prose,"Fiction, Historical, Adventure 
-"
-Пиковая дама,1833,Pushkin,prose,"Fiction, Novella, Gothic, Horror 
-"
-Повести Белкина,1830,Pushkin,prose,"Fiction, Short stories, Novella 
-"
-Рославлев,1831,Pushkin,prose,"Fiction, Historical Fiction, Romance 
+Соловьиный сад,1915,Blok,poems,"Symbolism, Romanticism, Modernism 
+"
+Двенадцать,1918,Blok,poems,"Symbolism, Modernism, Epic, Drama, Satire 
+"
+Скифы,1918,Blok,poems,"The best single-word genres from the list that describe the text are: **Romanticism, Epic, Drama**.
+
+Here's why:
+
+* **Romanticism:** The poem exhibits many traits of Romanticism, including:
+    * **Emphasis on emotion and passion:** The poem is full of strong emotions like love, hate, anger, and fear.
+    * **Focus on the individual and their inner life:** The poem speaks of the ""skiphs"" and their identity, as well as their relationship with the ""old world.""
+    * **Nature as a source of inspiration:** There are mentions of ""debrys,"" ""forests,"" and ""Ural,"" suggesting a connection with nature.
+    * **Use of elevated language and imagery:** The poem is rich in metaphors, similes, and vivid imagery.
+* **Epic:** The poem has elements of an epic poem:
+    * **Grand scope:** The poem covers themes of history, conflict, and destiny.
+    * **Focus on heroic deeds and historical events:** The poem speaks of past conflicts and hints at future ones. 
+    * **Use of elevated language and imagery:**  The poem uses a heightened and evocative language.
+* **Drama:** The poem is dramatic in the sense that it:
+    * **Has a strong conflict:** There is a clear conflict between the ""skiphs"" and the ""old world.""
+    * **Uses heightened language and dramatic scenes:** The language is dramatic, and the poem evokes scenes of war and destruction.
+
+While the poem has elements of other genres, these three are the most prominent. 
+"
+Возмездие,1921,Blok,poems,"The best single-word genres to describe the text ""Возмездие"" by Alexander Blok are: 
+
+Symbolism, Modernism, Epic, Gothic 
+"
+19 октября,1825,Pushkin,poems,"The best single-word genres that describe the text are: **Romanticism, Epic**. 
+
+Here's why:
+
+* **Romanticism:** The poem is rife with Romantic themes:
+    * **Emphasis on emotion and individual experience:**  The speaker's sadness, longing for friends, and the celebration of their past are central. 
+    * **Idealization of nature and the past:**  The opening imagery of the changing seasons, the mention of ""mirth"" and ""happy days"" evoke a sense of idealized beauty.
+    * **Importance of friendship and brotherhood:** The poem is deeply focused on the bond of friendship, particularly the memories of their shared youth.
+* **Epic:** The poem has a grand scope, addressing themes of time, change, mortality, and the enduring power of friendship.  It also celebrates a specific historical moment, the founding of the Lyceum. 
+
+While other genres might have elements present, they are not the primary driving forces of the poem:
+
+* **Realism:** While the poem touches on some realistic details, its focus is more on the emotional and idealistic aspects of the speaker's life.
+* **Symbolism:** The poem uses some symbolism, but it's not central to the overall meaning.
+* **Modernism, Socialist Realism, Science Fiction, Gothic, Satire, Mystery and Detective Fiction:** These genres are not relevant to the poem's themes or style. 
+"
+Анчар,1828,Pushkin,poems,"The best single-word genres that describe the text are: **Romanticism, Gothic, Epic, Symbolism**. 
+
+Here's why:
+
+* **Romanticism:** The poem heavily emphasizes emotion, nature, and the sublime. The focus on the destructive power of nature, the exotic setting, and the tragic fate of the character all align with Romantic themes.
+* **Gothic:** The poem features elements of the macabre, such as the poisonous tree, the deadly venom, and the gruesome death of the slave. The overall atmosphere is dark and foreboding. 
+* **Epic:** The poem tells a grand story with a clear hero (the slave), a powerful antagonist (the king), and a tragic conclusion. The use of elevated language and the larger-than-life setting contribute to the epic feeling.
+* **Symbolism:** The Anchar tree acts as a powerful symbol for both destruction and the power of authority. The poem uses symbolism to explore themes of tyranny, obedience, and the consequences of power. 
+
+While the poem could be seen as having elements of other genres, these four are the most prominent and influential in shaping the poem's overall style and meaning. 
+"
+Борис Годунов,1824,Pushkin,poems,"Drama, Epic, Satire, Gothic 
+"
+Во глубине сибирских руд...,1827,Pushkin,poems,"The best single-word genres from the list that describe the text are: **Romanticism, Epic, Drama**. 
+
+Here's why:
+
+* **Romanticism:** The poem emphasizes themes of hope, resilience, love, and freedom, which are core Romantic ideals. The focus on the power of the human spirit in the face of adversity is also characteristic of the Romantic movement.
+* **Epic:** The poem has a grand and sweeping theme, addressing the plight of political prisoners and their eventual liberation. The use of elevated language and imagery further contributes to its epic quality.
+* **Drama:** The poem has a clear narrative and a strong sense of conflict, highlighting the struggle between oppression and freedom. The emotional intensity and the use of dialogue-like language also point to its dramatic nature. 
+
+The other genres listed don't fit as well:
+
+* **Realism:** While the poem touches on real-world issues, it doesn't focus on the everyday details or social commentary that define Realism.
+* **Symbolism:** The poem uses symbolism (e.g., ""оковы"" - chains, ""темницы"" - prisons), but it's not primarily focused on complex, multi-layered symbolism.
+* **Modernism:** The poem's language and structure are more traditional, lacking the experimentalism characteristic of Modernism.
+* **Socialist Realism:** While the poem addresses social injustice, it doesn't align with the specific political ideology and artistic principles of Socialist Realism.
+* **Science Fiction, Gothic, Satire, Mystery and Detective Fiction:** These genres are not reflected in the themes, language, or structure of the poem. 
+"
+Деревня,1819,Pushkin,poems,"The best single-word genres to describe the text are: **Realism, Romanticism, Satire, Epic**. 
+
+Here's why:
+
+* **Realism:**  The poem portrays a realistic depiction of rural life in Russia, highlighting social issues like serfdom and the plight of the peasantry. 
+* **Romanticism:**  The poem extols the beauty of nature,  expresses personal feelings and emotions, and idealizes rural life as a refuge from the corrupting influences of the city.
+* **Satire:** The poem uses sharp criticism to expose the injustices of serfdom and the cruelty of the wealthy landowners.  It mocks the ""barstvo dikoe"" (wild aristocracy) and their lack of compassion.
+* **Epic:** The poem's broad scope, its exploration of social issues, and its yearning for a better future give it an epic quality. 
+
+The other genres listed are not as fitting:
+
+* **Symbolism:** While the poem uses some imagery, it doesn't rely heavily on symbolism as a defining characteristic.
+* **Modernism:**  The poem's style and themes are rooted in 19th-century Romanticism and Realism, not the experimental techniques of Modernism.
+* **Socialist Realism:**  While the poem criticizes social injustice, it doesn't fit the rigid, propagandistic style of Socialist Realism.
+* **Science Fiction, Gothic, Mystery and Detective Fiction:** These genres are entirely absent from the poem. 
+"
+Евгений Онегин,1823,Pushkin,poems,"Romanticism, Satire, Epic, Drama 
+"
+Зимнее утро,1829,Pushkin,poems,"The best single-word genres from the list to describe ""Winter Morning"" by Alexander Pushkin are: 
+
+* **Romanticism** 
+* **Epic** 
+"
+К морю,1824,Pushkin,poems,"The best single-word genres that describe the text are: **Romanticism, Epic**. 
+
+Here's why:
+
+* **Romanticism:**  The poem emphasizes strong emotions, nature's power, the individual's connection to the sublime (the vast, awe-inspiring sea), and a yearning for freedom and inspiration. 
+* **Epic:** The poem has a grand scope, dealing with themes of power, loss, memory, and the passing of great figures (Napoleon and the implied poet himself). It also uses elevated language and focuses on a significant event or journey (the speaker's farewell to the sea).
+
+While the poem has elements of other genres, these two stand out as the most prominent. 
+"
+К Чаадаеву,1818,Pushkin,poems,"Romanticism, Epic 
+"
+К,1825,Pushkin,poems,"The poem ""K***"" by Alexander Pushkin is best described as: **Romanticism**. 
+
+Here's why:
+
+* **Romanticism:** The poem embodies many key elements of Romanticism, such as:
+    * **Emphasis on emotion and subjectivity:** The speaker's feelings of love, longing, and despair are central to the poem.
+    * **Idealization of beauty:** The woman is described as a ""genius of pure beauty"" and a ""vision.""
+    * **Focus on nature and the supernatural:**  The poem evokes a sense of mystery and transcendence.
+    * **Exploration of the individual and the imagination:** The speaker's internal journey and the power of memory are key themes.
+
+While the poem touches on elements of other genres, Romanticism is the most dominant and defining characteristic. 
+"
+Каменный гость,1830,Pushkin,poems,"Drama, Gothic, Satire 
+"
+Медный всадник,1833,Pushkin,poems,"Realism, Romanticism, Epic, Drama 
+"
+Моцарт и Сальери,1830,Pushkin,poems,"Drama, Satire, Gothic 
+"
+На холмах Грузии лежит ночная мгла...,1829,Pushkin,poems,"Romanticism, Epic 
+"
+Песнь о вещем Олеге,1822,Pushkin,poems,"Epic, Romanticism, Gothic 
+"
+Пир во время чумы,1830,Pushkin,poems,"Drama, Gothic, Realism, Satire 
+"
+Поэт,1827,Pushkin,poems,"The best single-word genres to describe the text are: **Romanticism, Epic**. 
+
+Here's why:
+
+* **Romanticism:** The poem emphasizes the poet's intense emotional experience, his connection to nature, his disdain for the mundane, and his divine inspiration. These are all hallmarks of Romanticism.
+* **Epic:** The poem has a grand, sweeping tone and explores themes of inspiration, isolation, and the poet's role in society. This aligns with the epic genre, which often deals with heroic figures and momentous events. 
+
+While other genres might have some elements present, they are not the primary focus of the poem:
+
+* **Realism:** The text focuses more on the poet's inner world than on realistic depictions of everyday life.
+* **Symbolism:** While there are symbols present (like the lyre and the eagle), they are not central to the poem's meaning.
+* **Modernism:** The poem lacks the experimental language and fragmented narratives typical of Modernism.
+* **Socialist Realism:** This genre is focused on portraying socialist ideals, which are not present in the text.
+* **Science Fiction:** There are no elements of futuristic technology or space exploration.
+* **Gothic:** While there is a sense of darkness and isolation, the poem doesn't have the supernatural elements typical of Gothic literature.
+* **Satire:** The poem is not meant to ridicule or mock.
+* **Drama:** This genre is typically associated with plays, not poetry.
+* **Mystery and Detective Fiction:**  There is no mystery or crime to solve. 
+"
+Пророк,1826,Pushkin,poems,"The best single-word genres from the list that describe ""The Prophet"" by Alexander Pushkin are: **Romanticism, Symbolism, Epic, Drama**. 
+
+Here's why:
+
+* **Romanticism:** The poem embodies key Romantic elements:  
+    * **Emphasis on emotion and the sublime:** The speaker's ""spiritual thirst"" and the awe-inspiring presence of the seraph.
+    * **Focus on the individual and their relationship to nature:** The speaker's journey in the ""desert"" and the descriptions of nature (birds, sea, plants).
+    * **Idealism and the search for meaning:** The speaker's transformation and the call to prophecy.
+
+* **Symbolism:** The poem is rich in symbolic imagery:
+    * **The seraph:** Represents divine inspiration and transformative power.
+    * **The ""veiled eyes"" and the ""serpent's sting"":**  Symbolic of the prophet's ability to see truth and communicate it even if it is painful.
+    * **The ""burning coal"":** Represents the divine fire of truth and the prophet's mission.
+
+* **Epic:** The poem has elements of epic poetry:
+    * **Grand themes:**  The nature of prophecy, divine will, and the role of the poet in society.
+    * **Heroic journey:** The speaker's transformation from a normal person to a prophet.
+    * **Elevated language and tone:** The use of poetic imagery and powerful metaphors.
+
+* **Drama:** The poem can be read as a dramatic monologue:
+    * **Internal conflict:** The speaker's struggle with his own doubts and limitations.
+    * **Shift in tone and perspective:**  The speaker's initial fear and awe give way to acceptance and a sense of purpose. 
+    * **Climax:** The moment when the speaker receives his prophetic mission.
+
+The other genres on the list are less applicable to this poem:
+
+* **Realism:** The poem is too focused on the supernatural and the symbolic to be considered realistic.
+* **Modernism:** The poem lacks the experimental language and fragmented narratives typical of modernist literature.
+* **Socialist Realism:** This genre focuses on portraying socialist ideals and everyday life in a realistic manner.  The poem is far removed from this theme.
+* **Science Fiction:** The poem doesn't feature futuristic technologies or science-based concepts.
+* **Gothic:** While the poem has a sense of the mysterious and the supernatural, it lacks the elements of horror and suspense associated with gothic literature.
+* **Satire:**  The poem is not intended to mock or criticize social institutions or individuals.
+* **Mystery and Detective Fiction:** The poem doesn't involve a mystery or a detective trying to solve a crime. 
+"
+Сказка о золотом петушке,1834,Pushkin,poems,"Here are the genres that best describe the text, separated by commas: 
+
+**Epic, Satire** 
+
+Here's why:
+
+* **Epic:** The story has the characteristics of an epic poem: a grand scale, heroic figures (though flawed), fantastical elements, and a focus on the fate of a nation (or in this case, a kingdom).
+* **Satire:** The story uses humor and exaggeration to critique human flaws and societal issues.  The greed and vanity of Tsar Dadon, the foolishness of his actions, and the overall message of the story point towards satire.
+
+While the story has elements of Romanticism (emphasis on imagination, emotion), the presence of satire makes it more than just a straightforward Romantic piece. 
+"
+Сказка о мёртвой царевне,1833,Pushkin,poems,"The best fitting genres for ""The Tale of the Dead Princess and the Seven Knights"" by Alexander Pushkin are: **Epic, Romanticism, Gothic**. 
+
+Here's why:
+
+* **Epic:** The story has a grand scope, featuring a royal family, legendary characters (seven knights), a magical object (the talking mirror), and a journey of adventure and rescue. 
+* **Romanticism:** The text emphasizes strong emotions,  idealized love (between the princess and the prince), and the power of nature (the forest, the storm). The narrative also leans towards the fantastical and supernatural.
+* **Gothic:** The story includes elements of the supernatural (the poisoned apple, the talking mirror), a dark and mysterious atmosphere (the forest, the deserted tower), and the theme of death and resurrection.
+
+The other genres listed are not as fitting:
+
+* **Realism:** The story is too fantastical and relies too heavily on symbolism.
+* **Symbolism:** While symbolism is present, it's not the primary focus of the story.
+* **Modernism:** The story does not exhibit the characteristics of Modernism like stream of consciousness or fragmentation.
+* **Socialist Realism:** The story is not focused on social issues or the working class.
+* **Science Fiction:** The story lacks any science fiction elements.
+* **Satire:** The story does not satirize societal issues or individuals.
+* **Drama:** While the story has dramatic elements, it is not a play.
+* **Mystery and Detective Fiction:** The story does not focus on solving a crime. 
+"
+Сказка о медведихе,1830,Pushkin,poems,"The text above best fits these genres: **Epic, Satire.** 
+
+Here's why:
+
+* **Epic:** The story has a grand and heroic scope, focusing on a central figure (the bear) and their tragic fate. It also has elements of folklore and traditional storytelling.
+* **Satire:**  The text pokes fun at human behavior, particularly the greed and callousness of the man who kills the bear and sells her cubs. The exaggerated descriptions and humorous elements contribute to the satirical nature of the story. 
+
+While the text might have some Romantic elements (strong emotions, focus on nature), it doesn't align with the other genres listed. 
+"
+Сказка о попе и работнике его Балде,1830,Pushkin,poems,"The text above best fits the following genres:  **Satire, Epic**. 
+
+Here's why:
+
+* **Satire:** The story uses humor and exaggeration to criticize the greed and foolishness of the priest (the ""pop""). 
+* **Epic:** The story has a grand and heroic scale, with elements of adventure (Balda's journey to collect the tribute) and supernatural beings (the devils). 
+
+The other genres listed are not applicable:
+
+* **Realism:**  The story is too fantastical and relies on supernatural elements.
+* **Romanticism:**  While there are some elements of romanticism (like the idea of a brave and resourceful protagonist), the overall focus is on social critique.
+* **Symbolism:**  The story doesn't employ a significant amount of symbolism. 
+* **Modernism:**  The story is written in a traditional style and doesn't have the experimental features of modernist literature.
+* **Socialist Realism:**  The story doesn't promote socialist ideals or focus on class struggle.
+* **Science Fiction:**  The story doesn't involve futuristic technology or space travel.
+* **Gothic:**  While the story has some supernatural elements, it lacks the dark and eerie atmosphere typical of gothic literature.
+* **Drama:**  While the story could be adapted for the stage, it's primarily written as a narrative poem.
+* **Mystery and Detective Fiction:**  The story doesn't involve solving a crime or unraveling a mystery. 
+"
+Сказка о рыбаке и рыбке,1833,Pushkin,poems,"The best single-word genres to describe the text are:  **Satire, Epic, Romanticism**. 
+
+Here's why:
+
+* **Satire:** The story uses humor and exaggeration to critique human greed and ambition, particularly the insatiable desires of the old woman.
+* **Epic:**  The story has a grand scope, featuring supernatural elements, a long journey, and a powerful lesson about the consequences of unchecked desire.
+* **Romanticism:** The story emphasizes the power of nature, the beauty of the sea, and the importance of compassion and humility. While there's a supernatural element, the story does not focus on horror or suspense like Gothic.
+
+While the story is a fairy tale, it's not modernism, socialist realism, science fiction, Gothic, mystery or detective fiction. Realism is a less prominent genre here because of the fantastical elements. 
+"
+Сказка о царе Салтане,1831,Pushkin,poems,"Epic, Satire 
+"
+Скупой рыцарь,1830,Pushkin,poems,"The best single-word genres to describe the text are:  **Drama, Satire, Gothic.** 
+
+Here's why:
+
+* **Drama:** The text is written in a dramatic form, with dialogue and stage directions. It's clearly a play.
+* **Satire:** The play uses humor and exaggeration to criticize human greed and the corrupting influence of wealth. The character of the Baron, his obsession with gold, and the interactions with the Jewish moneylender are ripe with satirical elements.
+* **Gothic:** The setting (a dark, secluded castle and a secret vault), the themes of greed, death, and the supernatural, and the atmosphere of suspense contribute to a Gothic feel. 
+"
+Узник,1822,Pushkin,poems,"The best single-word genres to describe the text are: **Romanticism, Gothic.** 
+
+Here's why:
+
+* **Romanticism:** The text embodies romantic themes of freedom, longing for escape, and the power of nature. The use of vivid imagery and emotional language (""грустный товарищ"", ""кровавую пищу"", ""белеет гора"", ""синеют морские края"") are typical of romantic literature.
+* **Gothic:** The setting (""темница сырой"", ""за решеткой"") and the imagery of a caged bird (""орел молодой"", ""кровавую пищу"") evoke a sense of confinement, mystery, and the macabre, which are hallmarks of gothic literature.
+
+While the text might contain elements of other genres, these two are the most prominent. 
+"
+Элегия (Безумных лет угасшее веселье...),1830,Pushkin,poems,"Romanticism, Drama 
+"
+Элегия (Воспоминаньем упоенный...),1819,Pushkin,poems,"Romanticism, Epic 
+"
+"Элегия (Опять я ваш, о юные друзья...)",1817,Pushkin,poems,"Romanticism, Gothic 
+"
+"Элегия (Счастлив, кто в страсти сам себе...)",1816,Pushkin,poems,"Romanticism 
+"
+"Элегия (Я думал, что любовь погасла навсегда...)",1816,Pushkin,poems,"Romanticism, Gothic 
+"
+Элегия на смерть Анны Львовны,1825,Pushkin,poems,"The text you provided is best described as **Romanticism, Satire, Epic**. 
+
+Here's why:
+
+* **Romanticism:** The text heavily relies on emotional expression, particularly in the opening lines (""Ох, тетенька! ох, Анна Львовна""). It also uses elevated language and imagery, focusing on themes of love, loss, and mortality.
+* **Satire:** The text pokes fun at the conventions of mourning and the figures involved, especially through the line ""Или зачем подлец попович / Его Красовский пропустил"" (which suggests a criticism of hypocrisy and social hierarchy). 
+* **Epic:** While not a full-fledged epic poem, the text exhibits some elements of epic poetry, such as a grand tone, a focus on historical figures and events, and an extended narrative structure.
+
+The other options are not as applicable:
+
+* **Realism, Modernism, Socialist Realism, Science Fiction, Gothic, Mystery and Detective Fiction:** These genres are not present in the provided text. 
+* **Drama:** The text is a poem, not a play. 
+* **Symbolism:** While there may be some symbolism, it is not the dominant feature of the text. 
+"
+"Я вас любил любовь ещё, быть может,...",1829,Pushkin,poems,"The best single-word genres to describe the text are: **Romanticism**. 
+
+Here's why:
+
+* **Romanticism:** The poem exhibits classic Romantic themes like passionate love, idealized beauty, and the power of emotion. The speaker's unrequited love, his ""silent"" and ""hopeless"" devotion, and his desire to avoid causing the beloved any ""sorrow"" are all hallmarks of Romantic sensibility.
+
+The other options are not as fitting:
+
+* **Realism:**  The poem's focus on intense emotion and idealized love is not typically found in Realism, which emphasizes everyday life and social issues.
+* **Symbolism:** While there might be some subtle symbolism, the poem's meaning is fairly straightforward and does not rely heavily on symbolic representation.
+* **Modernism:**  The poem lacks the experimental language, fragmented structures, and disillusionment that characterize Modernism.
+* **Socialist Realism:** The poem doesn't address social or political issues and has no socialist themes.
+* **Science Fiction, Gothic, Satire, Epic, Drama, Mystery and Detective Fiction:** These genres are not evident in the poem's content or style. 
+"
+Я памятник себе воздвиг нерукотворный,1836,Pushkin,poems,"The best single-word genres that describe the text are: **Romanticism, Epic, Satire.** 
+
+Here's why:
+
+* **Romanticism:** The poem emphasizes emotion, imagination, and individual experience.  It celebrates the power of art and the poet's ability to transcend mortality. 
+* **Epic:** The poem has a grand scope, addressing themes of immortality, national identity, and the poet's legacy. It uses elevated language and imagery.
+* **Satire:**  The poem subtly criticizes the ""cruel age"" and the ""foolish"" people who might misunderstand the poet's intentions. 
+
+The other genres are not as fitting:
+
+* **Realism:** Focuses on depicting everyday life, which is not the poem's focus.
+* **Symbolism:**  While the poem has symbolism, it's not the primary feature. 
+* **Modernism:**  Emphasizes experimentation and fragmentation, which is absent here.
+* **Socialist Realism:**  Focuses on promoting socialist ideals, not present.
+* **Science Fiction:**  Deals with futuristic technology and concepts, not applicable.
+* **Gothic:**  Focuses on the supernatural and macabre, not prominent.
+* **Drama:**  The poem is not written for theatrical performance.
+* **Mystery and Detective Fiction:**  The poem doesn't contain elements of mystery or crime. 
+"
+Carthago Delenda Est,1896,Tolstoy,publicism,"The text best fits these genres: **Satire, Realism**. 
+
+Here's why:
+
+* **Satire:** The text uses biting humor and exaggeration to critique the military establishment and its glorification of violence. The author mocks the absurdity of military rituals, the justification of war, and the hypocrisy of those in power. 
+* **Realism:** The text aims to depict the world as it is, focusing on the harsh realities of war, the moral decay within the military, and the social injustices it perpetrates. The author uses detailed examples and realistic portrayals to expose the hypocrisy and barbarity of the military system.
+
+The other genres listed are not as fitting:
+
+* **Romanticism, Symbolism, Modernism, Gothic, Epic, Drama, Mystery and Detective Fiction:**  These genres are not prominent in the text.  While there are elements of symbolism and drama, they are not the defining features of the piece. 
+* **Socialist Realism:**  While the text critiques social inequality and power dynamics, it doesn't adhere to the strict tenets of Socialist Realism, which promotes a specific political agenda. 
+* **Science Fiction:** The text is grounded in reality and doesn't explore futuristic or fantastical themes. 
+"
+Бессмысленные мечтания,1891,Tolstoy,publicism,"The text best fits these genres: **Realism, Satire, Epic**. 
+
+Here's why:
+
+* **Realism:** The text focuses on the portrayal of contemporary Russian society and the political climate of the time, with specific details about the events and characters involved. It aims to capture the reality of the situation, even if it is being criticized.
+* **Satire:** The text uses irony, exaggeration, and ridicule to critique the existing social order, particularly the role of the Tsar and the lack of representation for the people. 
+* **Epic:**  The text has a broad scope, addressing large themes like political power, social inequality, and the role of the individual in society. It also takes a historical perspective, contrasting the past with the present. 
+
+The other genres are less relevant:
+
+* **Romanticism:** While there are some elements of emotional intensity, the text is primarily focused on a realistic and analytical perspective.
+* **Symbolism:** While there could be some symbolic interpretation, the text doesn't rely on a heavily symbolic language.
+* **Modernism:** Although the text tackles modern themes, it doesn't use the experimental styles and fragmented narratives typical of modernism.
+* **Socialist Realism:** The text critiques the Tsarist system, but it doesn't promote socialist ideals or use the specific tropes of socialist realism.
+* **Science Fiction, Gothic, Mystery and Detective Fiction:** These genres are not relevant to the content of the text. 
+* **Drama:** While the text might be adapted into a dramatic work, it's not written in a dramatic form. 
+"
+Богу или маммоне,1895,Tolstoy,publicism,"The text best fits the genres: **Realism, Satire, Epic**. 
+
+Here's why:
+
+* **Realism:** The text focuses on everyday issues and social problems of the time, such as alcoholism and its impact on families and society. It avoids romanticizing these issues and presents a straightforward, realistic view.
+* **Satire:** The text uses irony and exaggeration to criticize the justifications for drinking and the social norms that uphold it. The contrasting of ""good"" and ""bad"" drinkers, the use of quotes to highlight hypocritical arguments, and the overall tone of moral condemnation are all hallmarks of satire.
+* **Epic:** While not in the traditional sense of an epic poem, the text addresses a significant moral issue (alcoholism) with a broad scope, tackling its impact on individuals, families, and society as a whole. It also uses a strong moral tone, advocating for social change.
+
+The other genres don't fit as well:
+
+* **Romanticism:** The text lacks the emphasis on emotion, imagination, and individual experience typical of Romanticism.
+* **Symbolism:** While some elements could be interpreted symbolically, the text's focus on social commentary and direct arguments against alcoholism outweighs any symbolic intent.
+* **Modernism:** The text doesn't exhibit the experimentation with form, stream of consciousness, or psychological exploration typical of Modernism.
+* **Socialist Realism:** The text lacks the focus on communist ideology and the idealization of the working class that characterize Socialist Realism.
+* **Science Fiction, Gothic, Mystery and Detective Fiction:** None of these genres are relevant to the text's themes and style. 
+"
+Два письма к М.Ганди,1909,Tolstoy,publicism,"The provided text is best described as: **Realism, Epic** 
+
+Here's why:
+
+* **Realism:** The text focuses on the lived experiences of people and their struggles within a specific social and political context. It deals with real issues like non-violence, war, religious hypocrisy, and social injustice. The writing style is direct, clear, and grounded in reality.
+* **Epic:** The text discusses important philosophical and moral questions about humanity's place in the world, the nature of truth, and the role of faith in society. It presents a grand vision of the ongoing conflict between violence and love, with a strong sense of historical and universal significance. 
+
+While the text touches upon some elements of other genres, they are not its primary defining features:
+
+* **Romanticism:** The text lacks the emotional intensity, focus on nature, and individual imagination that characterizes Romanticism. 
+* **Symbolism:** While the text uses some symbolic language (like ""love"" and ""violence""), it doesn't rely heavily on symbolism as a defining feature.
+* **Modernism:** The text doesn't experiment with form and language in the way that characterizes Modernist writing.
+* **Socialist Realism:** The text doesn't promote a specific political ideology in the way that Socialist Realism does.
+* **Science Fiction, Gothic, Satire, Mystery and Detective Fiction:** These genres are completely unrelated to the content and style of the text. 
+* **Drama:** Although the text has a dramatic tension, it isn't written in the form of a play. 
+"
+Две войны,1898,Tolstoy,publicism,"The text is best described as: **Realism, Satire, Epic.** 
+
+Here's why:
+
+* **Realism:** The text focuses on social issues (war, government oppression, religious persecution) and presents them in a realistic, straightforward manner. The descriptions of the духоборы's suffering, the details of the conflict, and the portrayal of the government's actions all contribute to the realistic feel.
+* **Satire:**  The text uses sharp wit and irony to criticize the hypocrisy of the ""civilized"" world, especially the glorification of war and the way it contrasts with the peaceful resistance of the духоборы. The comparison of the Spanish-American war to a fight between a strong young man and a frail old man is a prime example of this satirical approach.
+* **Epic:** The text tackles a large-scale conflict, both the physical war and the spiritual war against violence and injustice. It involves numerous characters and spans a broad historical context, lending itself to the epic genre. 
+
+While some aspects of the text might touch upon other genres, the central themes and tone align most strongly with Realism, Satire, and Epic. 
+"
+"Доклад, приготовленный для конгресса о мире в Стокгольме",1909,Tolstoy,publicism,"The text above most closely aligns with these genres: **Realism, Satire, Drama**. 
+
+Here's why:
+
+* **Realism:** The text focuses on the harsh realities of war and the hypocrisy of those who promote it while claiming to be Christian. It aims to present a truthful depiction of the societal conflicts surrounding war.
+* **Satire:** The text uses irony and sarcasm to critique the actions of governments and their justification for war. The comparison of military leaders to those who wear ""beautiful new clothes"" and the idea of governments advocating for their own self-destruction through peace are examples of this.
+* **Drama:** The text builds a sense of tension and conflict, highlighting the moral dilemma between Christian beliefs and the acceptance of war. The author's impassioned plea for peace and his critique of societal structures create a dramatic effect. 
+
+The other genres are not as fitting:
+
+* **Romanticism:**  The text doesn't focus on emotional intensity or idealized notions of beauty, which are key elements of Romanticism.
+* **Symbolism:** The text uses clear language and doesn't heavily rely on symbolism to convey meaning.
+* **Modernism:** While the text touches on themes of societal change and individual responsibility, it lacks the experimental techniques and fragmentation often found in Modernist literature.
+* **Socialist Realism:** The text doesn't advocate for a specific socialist agenda or idealize the working class.
+* **Science Fiction:** The text doesn't involve futuristic technology or alternate realities.
+* **Gothic:** The text doesn't feature supernatural elements or elements of horror.
+* **Mystery and Detective Fiction:**  The text doesn't involve a mystery to be solved or a detective figure. 
+* **Epic:** The text doesn't encompass a grand narrative or a lengthy exploration of a heroic journey. 
+"
+Исповедь,1882,Tolstoy,publicism,"The best single-word genres that describe the text are: 
+
+* **Realism**
+* **Satire** 
+* **Epic** 
+* **Drama** 
+
+Here's why:
+
+* **Realism:** The text focuses on a detailed and realistic portrayal of the protagonist's internal struggles with faith and meaning in a world that seems devoid of both. There's a focus on individual experience and the mundane details of life.
+* **Satire:** The text often uses humor and exaggeration to critique societal values, particularly those of the intellectual elite and their pursuit of knowledge without grounding in faith or moral purpose. 
+* **Epic:** The text covers a substantial period of the protagonist's life, charting his journey through different stages of thought and belief. It's a story of self-discovery and a search for meaning, making it epic in scope.
+* **Drama:** The text is full of internal conflict and emotional turmoil, highlighting the protagonist's struggle to reconcile his intellectual skepticism with a profound need for faith and a sense of purpose. 
+
+While the text has elements of other genres, these four are the most prominent. 
+"
+Не могу молчать (1-я редакция),1908,Tolstoy,publicism,"Realism, Satire, Epic, Drama 
+"
+Неделание,1893,Tolstoy,publicism,"Satire, Realism 
+"
+О безумии,1910,Tolstoy,publicism,"The text above best fits the following genres: 
+
+* **Realism**
+* **Satire**
+* **Epic** 
+"
+О веротерпимости,1901,Tolstoy,publicism,"Satire, Drama 
+"
+О науке (Ответ  крестьянину),1909,Tolstoy,publicism,"The text appears to be a blend of genres, but the most prominent ones are:
+
+* **Realism:** The text focuses on the social and economic realities of the time, highlighting the class divide and the role of education in maintaining it.
+* **Satire:** The text uses humor and irony to critique the education system and the values of the upper class.
+* **Epic:** The text explores a broad range of ideas and themes, including the nature of knowledge, the role of religion, and the importance of social justice.
+"
+О социализме,1910,Tolstoy,publicism,"The text you provided falls into the following genres: 
+
+* **Realism**
+* **Satire** 
+
+Here's why:
+
+* **Realism:** The text focuses on the social and economic problems of the time, depicting them with a sense of realism and objectivity. It criticizes the existing social structures and the prevailing ideologies, including socialism, without idealizing or romanticizing them. 
+* **Satire:** The text uses humor and irony to expose the flaws and hypocrisies of society, particularly the blind faith in progress, science, and political ideologies. It ridicules the belief in the possibility of determining and shaping the best form of society through rational means. 
+
+While the text does touch upon philosophical and religious themes, it doesn't fit into genres like Symbolism, Modernism, or Gothic. It lacks the strong emphasis on symbolism, experimental forms, and the exploration of the dark side of human nature that characterize these genres. Similarly, it doesn't contain elements of Science Fiction, Mystery, or Detective Fiction. 
+
+The text's focus on social criticism and the use of irony make satire a particularly apt categorization. 
+"
+Ответ польской женщине,1909,Tolstoy,publicism,"The text falls into the following genres:  **Realism,  Satire, Epic** 
+
+Here's why:
+
+* **Realism:** The text deals with real-world issues of political oppression, social inequality, and the struggle for liberation. The language is direct and grounded in reality, with a focus on the practical implications of the author's ideas.
+* **Satire:** The text uses irony and humor to critique the actions and beliefs of those who advocate for violence as a means of liberation.  It ridicules the idea of ""fighting fire with fire"" and the reliance on traditional methods of revolution.
+* **Epic:** The text tackles a grand theme - the potential for human liberation through non-violent resistance - and aims to convince the reader of its validity. It has a philosophical and moral weight, and the author presents a grand vision for the future. 
+
+The other genres are less applicable:
+
+* **Romanticism:** The text doesn't focus on heightened emotionality, individual imagination, or nature.
+* **Symbolism:** The text relies on direct language and argument, not symbolic representation.
+* **Modernism:** While the text discusses a radical concept, it doesn't employ the experimentation in form or language typical of modernism.
+* **Socialist Realism:** The text doesn't promote a specific socialist ideology.
+* **Science Fiction:** The text doesn't involve speculative technology or futuristic settings.
+* **Gothic:** The text lacks the elements of horror, mystery, or supernatural elements associated with gothic literature. 
+* **Mystery and Detective Fiction:**  The text doesn't contain a puzzle or crime to solve.
+* **Drama:** The text is written as a philosophical essay, not a theatrical script. 
+"
+Патриотизм и правительство,1900,Tolstoy,publicism,"The genres that best describe the text are: **Realism, Satire, Epic**. 
+
+Here's why:
+
+* **Realism:** The text is deeply grounded in the political and social realities of the late 19th and early 20th centuries, particularly the rise of nationalism, militarism, and the impact of government on individual lives. 
+* **Satire:** Толстой uses biting irony and sarcasm to critique the institutions of government, patriotism, and the way these concepts are used to manipulate and control people. He mocks the absurdity of war, the hypocrisy of politicians, and the self-serving nature of power. 
+* **Epic:**  The text tackles a vast and profound theme: the dangers of nationalism and the need for human unity. It has a sweeping scope, considering the history of human conflict and proposing a radical solution for global peace. 
+
+The other genres are not as fitting:
+
+* **Romanticism:** The text is decidedly anti-romantic, focusing on the harsh realities of war and power struggles rather than idealizing emotions or nature.
+* **Symbolism:** While Толстой uses some figurative language, the text is not primarily driven by symbolic meaning. It aims to be direct and clear in its critique.
+* **Modernism:** While the text addresses themes relevant to modernism (like the alienation of the individual in a bureaucratic world), it lacks the experimental style and fragmented narratives often associated with the movement.
+* **Socialist Realism:** The text doesn't focus on promoting a specific socialist agenda. While it critiques social inequities and the role of capitalism in fueling conflict, its primary message is about transcending nationalism and seeking universal peace.
+* **Science Fiction, Gothic, Mystery and Detective Fiction:** These genres are not relevant to the text's content or style. 
+* **Drama:** While the text has a dramatic quality, it is primarily a philosophical essay, not a dramatic narrative. 
+"
+Патриотизм или мир,1896,Tolstoy,publicism,"The text can be best described as: **Satire, Epic**.
+
+Here's why:
+
+* **Satire:** The text heavily criticizes the concept of patriotism and the hypocrisy of Christian nations engaging in war and violence while claiming to follow Christ's teachings. This sharp, biting criticism is a key characteristic of satire. 
+* **Epic:** The text tackles a grand, overarching theme – the destructive nature of patriotism and the need for a shift towards a more peaceful, unified world.  The text also presents a long, detailed argument, another characteristic of epic literature. 
+
+While the text touches on some aspects of other genres, they are not the primary focus:
+
+* **Realism:** The text presents a strong argument, but it uses more exaggerated language and symbolism than strict realism would.
+* **Romanticism:** The text is more focused on logic and reason than the emotional and idealistic aspects of Romanticism.
+* **Symbolism:**  While there are symbols used (like the image of the armed men representing nations), the symbolism is more illustrative of the argument than central to the text's structure.
+* **Modernism:**  The text doesn't break with traditional literary conventions in a way that defines Modernism.
+* **Socialist Realism:** The text doesn't focus on portraying the lives of the working class or promoting socialist ideals.
+* **Science Fiction, Gothic, Mystery and Detective Fiction:**  These genres are completely irrelevant to the text's content. 
+
+Overall, the text's primary intention is to satirize the idea of patriotism and to present a grand argument for a more peaceful world, making Satire and Epic the most fitting genres. 
+"
+Первая ступень,1891,Tolstoy,publicism,"The text above is best described as: **Realism, Satire, Epic, Drama**. 
+
+Here's why:
+
+* **Realism:** The text focuses on a detailed, often critical, depiction of everyday life and society in the author's time, highlighting the hypocrisy and contradictions within the upper classes, especially regarding their consumption and lifestyle. 
+* **Satire:** Tolstoy uses humor and irony to expose and criticize the flaws of society, particularly the way people prioritize material comfort and indulgence over genuine moral values and the practice of  ""good living"".
+* **Epic:** The text has a grand scope, addressing universal themes of morality, religion, and the search for a good life, with Tolstoy aiming to make a significant statement about the state of human existence. 
+* **Drama:**  The text portrays inner struggles and moral conflicts, with individuals facing the challenging tension between their aspirations for a good life and the realities of a materialistic, self-serving society. 
+
+The other genres listed don't fit as well:
+
+* **Romanticism, Symbolism, Modernism:** The text lacks the emphasis on imagination, emotions, or experimental style typical of these genres. 
+* **Socialist Realism, Science Fiction, Gothic:** The text doesn't fit the specific themes and styles of these genres. 
+* **Mystery and Detective Fiction:**  The text lacks the mystery, suspense, or investigative elements of these genres. 
+"
+Письмо революционеру,1909,Tolstoy,publicism,"The text you provided is best described as **Satire**. 
+
+Here's why:
+
+* **Satire** is a genre that uses humor, irony, exaggeration, or ridicule to expose and criticize people's stupidity or vices, particularly in the context of contemporary politics and social issues. 
+* The text directly criticizes the prevailing political and social systems of the time, particularly those related to socialism and the role of violence in achieving social change. 
+* The author uses irony and exaggeration to highlight the absurdity of certain beliefs and practices, such as the reliance on violence to achieve social justice or the assumption that intellectuals can design the perfect society. 
+
+The text doesn't align with the other genres:
+
+* **Realism** focuses on depicting everyday life in a straightforward manner, which is not the case here.
+* **Romanticism** emphasizes emotion, imagination, and the individual, which is not a primary focus of the text.
+* **Symbolism** relies heavily on symbolic imagery, which is not present.
+* **Modernism** explores themes of alienation and fragmentation, which are present but not the primary focus.
+* **Socialist Realism** promotes socialist ideals through realistic portrayals, which is partially present but the text is more critical.
+* **Science Fiction**, **Gothic**, **Mystery and Detective Fiction**, **Epic**, and **Drama** are not relevant to the content of the text. 
+"
+Письмо студенту о праве,1909,Tolstoy,publicism,"The text above is best described as **Satire**. 
+"
+По поводу заключения В.А. Молчникова,1908,Tolstoy,publicism,"The text best fits these genres: **Satire, Realism, Drama**. 
+
+Here's why:
+
+* **Satire:**  The text uses biting irony and exaggeration to expose the hypocrisy and absurdity of the legal system and the government's actions against Tolstoy and his followers. 
+* **Realism:** The text focuses on the harsh realities of persecution, imprisonment, and the corruption within the legal system. It presents a realistic, unflinching view of the societal issues of the time.
+* **Drama:** The text unfolds like a dramatic narrative with a clear conflict between the author, his ideas, and the authorities who oppose them. It evokes strong emotions and has a sense of tension throughout.
+
+The other genres are less suitable:
+
+* **Romanticism, Symbolism, Modernism:** The text lacks the focus on emotion, symbolism, or experimental literary techniques that define these movements. 
+* **Socialist Realism:** While the text criticizes social injustice, it doesn't promote a specific socialist agenda or adhere to the stylistic guidelines of Socialist Realism.
+* **Science Fiction, Gothic, Mystery and Detective Fiction:** The text doesn't involve futuristic elements, supernatural horror, or detective plots. 
+* **Epic:** The text is too focused on a specific event and lacks the scope and grandeur typical of an epic. 
+"
+Почему христианские народы вообще и в особенности русский находятся теперь в бедственном положении,1907,Tolstoy,publicism,"The text above is best described as: **Satire, Epic**. 
+
+Here's why:
+
+* **Satire:** The text heavily criticizes the established church and its interpretation of Christianity. It uses irony and exaggeration to expose the hypocrisy and illogical aspects of the ""false"" Christian faith, contrasting it with the author's view of ""true"" Christianity.
+* **Epic:** The text has a grand scope, addressing the history of Christianity, the nature of religion, and the problems facing humanity. It aims to offer a grand solution to the world's problems through a revival of true Christian principles. 
+
+While the text does touch on some themes associated with other genres, they aren't the primary focus:
+
+* **Realism:** It doesn't offer a realistic portrayal of everyday life or focus on individual characters.
+* **Romanticism:**  While there's a sense of idealism, the text lacks the emotional intensity and emphasis on nature often found in Romanticism. 
+* **Symbolism:** The text uses allegory, but it's not the dominant characteristic.
+* **Modernism:**  The text doesn't explore the fragmentation of modern life or individual consciousness.
+* **Socialist Realism:**  The text focuses on a spiritual, rather than a political, solution to social problems.
+* **Science Fiction, Gothic, Mystery and Detective Fiction:**  These genres are completely absent. 
+* **Drama:** While it has a strong argumentative structure, it lacks the elements of a dramatic play (dialogue, stage directions). 
+"
+Приближение конца,1896,Tolstoy,publicism,"The text falls into the following genres:  **Realism, Satire, Epic, Drama** 
+
+Here's why:
+
+* **Realism:** The text focuses on a realistic portrayal of the individual's struggle against social and political pressures. The author uses the example of Van-der-Ver's refusal to serve in the military to highlight the realities of societal norms and the consequences of individual conscience.
+* **Satire:** The text uses humor and irony to critique the absurdity of societal institutions like the military and the hypocrisy of those who claim to be Christian while participating in war.  
+* **Epic:**  The text takes on a broad historical and philosophical perspective, discussing the evolution of human consciousness and its rejection of institutions like war. It aims to address a universal struggle with the implications of a pacifist stance.
+* **Drama:**  The text creates a sense of tension and conflict between individual conscience and societal expectations. The author explores the internal struggle faced by Van-der-Ver, making it a compelling and dramatic narrative. 
+
+The text doesn't fit into the other genres:
+
+* **Romanticism, Symbolism, Modernism:** While the text deals with ideas, it lacks the typical features of these genres like a focus on the sublime, symbolism, or a break with traditional forms of narrative.
+* **Socialist Realism:** The text doesn't promote a specific socialist agenda or focus on portraying the positive aspects of working-class life. 
+* **Science Fiction, Gothic, Mystery and Detective Fiction:** The text doesn't involve elements of fantasy, the supernatural, crime solving, or futuristic technologies. 
+"
+Славянскому съезду,1910,Tolstoy,publicism,"The text falls into the genres of **Realism** and **Epic**. 
+
+Here's why:
+
+* **Realism:** The text focuses on real-world issues of unity, societal structures, and the consequences of various forms of unity. It uses clear, straightforward language to analyze these issues, avoiding excessive symbolism or fantastical elements.
+* **Epic:** The text deals with broad, fundamental questions about humanity's purpose and the nature of true unity. It presents a grand vision for a united humanity based on a shared religious foundation,  suggesting a scope and ambition that align with the epic genre. 
+
+While the text discusses themes like religion and societal progress, it lacks the symbolic language or fantastical elements associated with genres like Symbolism or Modernism. It also doesn't exhibit the characteristic elements of Gothic, Science Fiction, Satire, Mystery and Detective Fiction, or Drama. 
+"
+Студенческое движение 1899 года,1899,Tolstoy,publicism,"The text best fits the genres: **Realism, Satire**. 
+
+Here's why:
+
+* **Realism:** The text focuses on depicting a specific social situation (student protests and peasant suffering) in a realistic and straightforward manner. It avoids romanticized or idealized portrayals, opting for a direct, unvarnished presentation of the harsh realities of the time. 
+* **Satire:** The text uses irony and exaggeration to critique the government's actions and the societal inequalities of the time. The descriptions of the government's indifference to the plight of the peasants and their use of brute force against protesting students are clearly satirical.
+
+The other genres are not as fitting:
+
+* **Romanticism:** The text lacks the emphasis on emotion, imagination, and individualism characteristic of Romanticism.
+* **Symbolism:** While there might be some symbolic elements, the text primarily focuses on depicting concrete realities, rather than abstract symbols. 
+* **Modernism:** The text does not exhibit the experimental style and themes of Modernist literature.
+* **Socialist Realism:** While it deals with social issues, the text doesn't promote a specific socialist ideology or use a propagandistic style typical of Socialist Realism. 
+* **Science Fiction, Gothic, Mystery and Detective Fiction:** These genres are not relevant to the text's content or style.
+* **Epic and Drama:** While the text deals with important events, it lacks the scope and grandeur of an epic, and it doesn't have the structure or dialogue of a drama. 
+"
+Удивительные существа,1909,Tolstoy,publicism,"The text best fits the genres of **Satire, Epic**. 
+
+Here's why:
+
+* **Satire:** The text is a biting critique of human behavior, using exaggeration, irony, and ridicule to expose the flaws and absurdities of society. 
+* **Epic:** The text has a sweeping scope, offering a grand, satirical view of humanity's follies and shortcomings. 
+
+While the text does touch on some themes that could be associated with other genres, it doesn't fully align with them:
+
+* **Realism:** While there is a sense of observation of human nature, the text is too heavily laced with satire and exaggeration to be considered pure realism.
+* **Romanticism:** The text is the opposite of romantic. It focuses on the dark side of humanity and lacks idealized depictions of nature or emotion. 
+* **Symbolism:** While some elements could be interpreted symbolically, the text's primary focus is on direct criticism, not symbolic representation.
+* **Modernism:** Modernist themes of alienation and fragmentation are present, but the text's tone and style are more classical than modernist.
+* **Socialist Realism:** The text criticizes societal structures, but it doesn't promote socialist ideals or offer a utopian vision.
+* **Science Fiction, Gothic, Mystery and Detective Fiction:** These genres are not represented in the text's themes or style. 
+
+**It's important to note that the text's genre classification can be open to interpretation and debate.** 
+"
+Церковь и государство,1891,Tolstoy,publicism,"The text best fits these genres: **Satire, Realism.** 
+
+Here's why:
+
+* **Satire:** The text heavily criticizes religious institutions and their practices, using irony, exaggeration, and ridicule to expose what the author sees as hypocrisy and absurdity. The author mocks the concept of ""church"" as a power structure built on deception and the misuse of religious authority for personal gain. 
+* **Realism:** The author focuses on the practical and social aspects of religion, presenting a grounded, objective analysis of its impact on society.  The text avoids romanticizing or idealizing faith, instead emphasizing the concrete consequences of religious dogma and the historical intertwining of church and state. 
+
+While some elements could be argued for other genres:
+
+* **Modernism:**  The text's questioning of traditional religious beliefs and its focus on individual experience could be considered modernist, but it lacks the experimental form and stream-of-consciousness style often associated with Modernism.
+* **Epic:** The text's scope is somewhat broad, touching on historical events and the evolution of Christian thought, but it lacks the grand scale and heroic figures typically found in epic works. 
+* **Drama:** The text is primarily a philosophical essay rather than a narrative, and it lacks the dramatic conflict and character development common to drama. 
+
+The primary focus of the text is on the author's critique of religious institutions and their impact on society. This critical, analytical approach, combined with the use of satire, aligns most strongly with Realism. 
+"
+Бедные люди,1846,Dostoevsky,prose,"Realism, Satire 
+"
+Белые ночи,1848,Dostoevsky,prose,"The text ""Белые ночи"" (White Nights) is a title, and titles alone don't give us enough information to determine genres. To figure out the genres of the work, we need to know what it is: 
+
+* **Is it a novel, a poem, a play, a film, or something else?** 
+* **What is the plot/content of the work?**
+
+Once you provide this information, I can help you identify the relevant genres from your list. 
+"
+Бесы,1872,Dostoevsky,prose,"Please provide the text you want me to analyze. I need the text to determine the relevant genres. 
+"
+Бобок,1873,Dostoevsky,prose,"Realism, Satire 
+"
+Братья Карамазовы,1881,Dostoevsky,prose,"Realism, Epic, Drama, Mystery 
+"
+Вечный муж,1870,Dostoevsky,prose,"Realism, Satire 
+"
+Господин Прохарчин,1847,Dostoevsky,prose,"Please provide the text you are referring to. I need the text to be able to identify the relevant genres. 
+"
+Два самоубийства,1876,Dostoevsky,prose,"The text most closely aligns with these genres:  **Realism, Satire, Drama, Mystery** 
+"
+Двойник,1846,Dostoevsky,prose,"Please provide the text you would like me to analyze. I need the text to determine which genres best describe it. 
+"
+Дневник писателя,1881,Dostoevsky,prose,"The text provided is ""Дневник писателя"".  Based on this title, the most likely genres are: 
+
+**Realism, Drama** 
+"
+Домовой,1880,Dostoevsky,prose,"Realism, Gothic 
+"
+Дядюшкин сон,1859,Dostoevsky,prose,"Realism, Satire, Gothic 
+"
+Ёлка и свадьба,1848,Dostoevsky,prose,"The text most closely aligns with these genres: 
+
+Realism, Satire 
+"
+Записки из подполья,1864,Dostoevsky,prose,"Realism, Satire, Drama 
+"
+Игрок,1866,Dostoevsky,prose,"Realism, Satire, Epic, Drama 
+"
+Идиот,1868,Dostoevsky,prose,"Please provide the text you are referring to so I can identify the appropriate genres. 
+"
+Короткая,1876,Dostoevsky,prose,"Realism, Gothic, Satire, Drama 
+"
+Крокодил,1865,Dostoevsky,prose,"Realism, Satire 
+"
+Маленький герой,1857,Dostoevsky,prose,"Realism, Romanticism, Satire, Epic, Drama 
+"
+Мальчик у Христа на ёлке,1876,Dostoevsky,prose,"Realism, Symbolism, Drama 
+"
+Неточка Незванова,1849,Dostoevsky,prose,"Realism, Gothic, Drama, Mystery 
+"
+Петербургские сновидения в стихах и в прозе,1861,Dostoevsky,prose,"Realism, Satire, Gothic 
+"
+Подросток,1875,Dostoevsky,prose,"The best single-word genres to describe the text are: 
+
+* **Realism**
+* **Romanticism**
+* **Satire** 
+* **Epic** 
+* **Drama**
+* **Mystery** 
+"
+Ползунков,1848,Dostoevsky,prose,"Realism, Satire 
+"
+Роман в девяти письмах,1847,Dostoevsky,prose,"Realism, Satire 
+"
+Село Степанчиково и его обитатели,1859,Dostoevsky,prose,"Realism, Satire, Epic 
+"
+Скверный анекдот,1862,Dostoevsky,prose,"Realism, Satire 
+"
+Слабое сердце,1848,Dostoevsky,prose,"Realism, Satire 
+"
+Сон смешного человека,1877,Dostoevsky,prose,"The story exhibits elements of several genres, making it difficult to pinpoint a single one. However, here's a breakdown with the most fitting options:
+
+* **Romanticism:**  The story heavily focuses on emotions, dreams, and the individual's subjective experience, aligning with the Romantic spirit. 
+* **Symbolism:** The story uses symbols like the star, the girl, and the other world to represent abstract ideas, particularly concerning the search for truth and happiness. 
+* **Satire:** The story uses humor to critique societal norms, especially the emphasis on science and reason over emotional experience and the cyclical nature of human flaws. 
+* **Science Fiction:** The story's journey to another planet, while seemingly dreamlike, introduces speculative elements that are characteristic of sci-fi.
+* **Gothic:** The story has elements of the uncanny, including the dream world, the dark atmosphere, and the haunting presence of the unknown. 
+
+**Therefore, the most fitting single-word genres, in order of prominence, are:**
+
+Romanticism, Symbolism, Satire, Science Fiction, Gothic 
+"
+Униженные и оскорблённые,1861,Dostoevsky,prose,"Realism, Gothic, Satire, Drama, Mystery 
+"
+Хозяйка,1847,Dostoevsky,prose,"Realism, Gothic, Mystery 
+"
+Честный вор,1860,Dostoevsky,prose,"Realism, Satire 
+"
+Чужая жена и муж под кроватью,1848,Dostoevsky,prose,"The text ""Чужая жена и муж под кроватью"" (Foreign wife and husband under the bed) suggests the following genres: 
+
+* **Drama** 
+* **Mystery and Detective Fiction** 
+
+The phrase hints at a secretive or potentially scandalous situation, which aligns with the core themes of both drama and mystery/detective fiction. 
+"
+Агафья,1886,Chekhov,prose,"Realism, Satire, Drama 
+"
+Альбом,1885,Chekhov,prose,"The best single-word genres from the list that describe the text are: **Realism, Satire**. 
+
+Here's why:
+
+* **Realism:** The story depicts everyday life in a realistic manner, focusing on the characters' interactions, social norms, and bureaucratic structures of the time. 
+* **Satire:** The story uses humor and exaggeration to critique the absurdity of bureaucracy, social hierarchies, and the ways in which people seek recognition and validation. The focus on the album as a symbol of meaningless praise and the children's playful destruction of it highlight the satirical aspect. 
+"
+Анна на шее,1895,Chekhov,prose,"Realism, Satire 
+"
+Анюта,1886,Chekhov,prose,"The best single-word genres to describe the text are: **Realism, Satire, Drama**. 
+
+Here's why:
+
+* **Realism:** The story focuses on everyday life,  the struggles of a student and a young woman in a poor setting. There's a focus on mundane details like the cluttered room, the student's focus on his studies, and the woman's simple life.
+* **Satire:** There's a subtle satirical element in the portrayal of the student's self-righteousness and his obliviousness to the woman's situation. The scene where he uses her body as a teaching tool, marking her chest with charcoal, is a particularly humorous and pointed criticism of his detachment.
+* **Drama:** The story explores themes of loneliness, poverty, and the fleeting nature of relationships, all with an undercurrent of sadness and tension. 
+
+The other genres are less applicable:
+
+* **Romanticism, Symbolism, Modernism, Socialist Realism, Science Fiction, Gothic:** These are not present in the story.
+* **Epic:**  The story is too short and focused to be considered epic.
+* **Mystery and Detective Fiction:**  There's no mystery or detective element in the story. 
+"
+Аптекарша,1886,Chekhov,prose,"Realism, Satire, Drama 
+"
+Ариадна,1895,Chekhov,prose,"Realism, Satire, Drama 
+"
+Архиерей,1902,Chekhov,prose,"Realism, Drama, Satire 
+"
+"Ах, зубы",1886,Chekhov,prose,"The best single-word genres that describe the text are: **Realism, Satire**. 
+
+Here's why:
+
+* **Realism:** The story portrays a realistic depiction of everyday life in 19th-century Russia.  The characters are relatable, their struggles with pain and bureaucracy are commonplace, and the setting is grounded in a recognizable social context.
+* **Satire:** The story uses humor and exaggeration to critique society, specifically the shortcomings of the medical profession and the absurdity of waiting rooms. The character of the dentist, who turns out to be an attorney, is a clear example of this satirical approach. 
+
+The other genres listed are not as applicable:
+
+* **Romanticism, Symbolism, Modernism:** These genres emphasize more abstract themes, psychological depth, or stylistic experimentation, which are not central to the story.
+* **Socialist Realism, Science Fiction, Gothic:**  The story does not engage with these thematic or stylistic elements.
+* **Epic, Drama, Mystery and Detective Fiction:** While the story has dramatic elements, it lacks the epic scope, intricate plot, or suspenseful mystery needed for these genres. 
+"
+Бабы,1891,Chekhov,prose,"Realism, Satire, Drama 
+"
+Баран и барышня,1883,Chekhov,prose,"Satire, Realism 
+"
+Барыня,1882,Chekhov,prose,"Realism, Satire, Drama 
+"
+Беглец,1887,Chekhov,prose,"Realism, Satire, Drama 
+"
+Беда 1886,1886,Chekhov,prose,"The best genres to describe the text are: **Realism, Satire, Drama**. 
+
+Here's why:
+
+* **Realism:** The story depicts everyday life and social issues of the time, focusing on the mundane struggles of the characters. 
+* **Satire:** The story uses humor to criticize social norms, like the hypocrisy of judging others for their vices while engaging in the same.
+* **Drama:** The story explores emotional conflict and the impact of life's challenges on the character. 
+
+The other options are less applicable:
+
+* **Romanticism:** The story lacks the emphasis on emotion, nature, and idealism that defines Romanticism.
+* **Symbolism:** While there might be subtle symbolism, the story doesn't rely heavily on symbolic elements.
+* **Modernism:** The story doesn't experiment with form and structure or explore the complexities of consciousness like Modernist literature.
+* **Socialist Realism:**  The story doesn't promote socialist ideals or glorify the working class.
+* **Science Fiction, Gothic, Mystery and Detective Fiction:** These genres are not evident in the story. 
+* **Epic:** The story lacks the grand scope and heroic characters characteristic of epic literature. 
+"
+Беда 1887,1887,Chekhov,prose,"Realism, Satire 
+"
+Беззащитное существо,1887,Chekhov,prose,"Realism, Satire, Drama 
+"
+Белолобый,1895,Chekhov,prose,"Realism, Satire 
+"
+Беседа пьяного с трезвым чёртом,1886,Chekhov,prose,"The best single-word genres that describe the text are: **Satire, Realism**. 
+
+Here's why:
+
+* **Satire:** The story uses humor and exaggeration to criticize societal norms and institutions.  The portrayal of the devil as a bureaucratic, complaining, and ultimately ineffective figure is a clear example of satire. 
+* **Realism:** The story deals with everyday life and characters, particularly the struggles of the lower classes (represented by the former clerk) and the corruption within bureaucracy. The dialogue is also realistic and reflects the vernacular of the time. 
+
+The other genres are not as applicable:
+
+* **Romanticism:**  The story lacks the focus on emotion, nature, and the supernatural that defines Romanticism.
+* **Symbolism:**  While the devil could be seen as a symbol, the story doesn't rely on symbolism in a central way.
+* **Modernism:**  The story lacks the experimental narrative techniques and psychological depth associated with Modernism. 
+* **Socialist Realism:**  The story doesn't focus on promoting socialist ideals.
+* **Science Fiction:**  The story lacks any futuristic elements or scientific concepts.
+* **Gothic:**  The story lacks the suspense, atmosphere of dread, and supernatural elements typically found in Gothic literature.
+* **Epic:**  The story is too short and focused on a single incident to be considered epic.
+* **Drama:**  The story is written as a short narrative, not a play.
+* **Mystery and Detective Fiction:**  The story doesn't involve a crime or investigation. 
+"
+Брак по расчёту,1884,Chekhov,prose,"The text above falls into the following genres: 
+
+* **Realism** 
+* **Satire** 
+* **Drama** 
+"
+Брожение умов,1884,Chekhov,prose,"The text best fits the following genres: 
+
+* **Realism** 
+* **Satire** 
+"
+Бумажник,1885,Chekhov,prose,"Satire, Drama 
+"
+В аптеке,1885,Chekhov,prose,"Realism, Satire 
+"
+В вагоне,1881,Chekhov,prose,"The best single-word genres to describe the text are: **Realism, Satire, Drama**. 
+
+Here's why:
+
+* **Realism:** The story focuses on everyday life in 19th-century Russia, with realistic depictions of train travel, social classes, and characters. 
+* **Satire:** Chekhov uses humor and exaggeration to critique societal flaws, particularly the bureaucratic inefficiency and the absurdity of some characters' behavior. 
+* **Drama:** The story has a sense of conflict, tension, and suspense, with elements of social commentary and human nature explored. 
+
+While the story contains elements of other genres, these three are the most prominent and central to its core themes. 
+"
+В овраге,1900,Chekhov,prose,"The best single-word genres that describe the text ""In the Ravine"" by Anton Chekhov are: **Realism, Satire, Drama**. 
+"
+В потёмках,1886,Chekhov,prose,"The genres that best describe the text are: **Realism, Satire, Gothic**. 
+
+Here's why:
+
+* **Realism:** The story focuses on everyday life and mundane characters, presenting a realistic portrayal of middle-class Russian society. The dialogue and situations are grounded in the realities of the time.
+* **Satire:** The story uses humor and exaggeration to criticize societal norms and human foibles. The characters are often ridiculous, and their actions are presented in a humorous way. For example, the husband's indifference and the wife's overreaction to the ""intruder"" are satirized.
+* **Gothic:** The story has elements of the Gothic, including the dark setting, the focus on fear and paranoia, and the suggestion of the supernatural. The wife's visions and anxieties contribute to a sense of unease. 
+"
+В ссылке,1892,Chekhov,prose,"Realism, Satire 
+"
+В суде,1886,Chekhov,prose,"Realism, Satire, Drama 
+"
+Ванька,1886,Chekhov,prose,"Realism, Satire, Drama 
+"
+Ведьма,1886,Chekhov,prose,"Realism, Gothic, Satire 
+"
+Верочка,1887,Chekhov,prose,"Realism, Drama 
+"
+Винт,1884,Chekhov,prose,"The best genres for this text are: **Realism, Satire, Drama**. 
+
+Here's why:
+
+* **Realism:**  The story focuses on everyday life and characters in a believable setting, a hallmark of Realism. 
+* **Satire:** The story uses humor and exaggeration to critique societal norms and the absurdity of bureaucratic behavior. The ""game"" with the photographs and the focus on official titles is a clear example of satire.
+* **Drama:** The story is a short play, a genre within Drama. It focuses on the interactions between characters and their conflict, building to a climax and resolution. 
+"
+Вишнёвый сад,1904,Chekhov,prose,"Realism, Satire, Drama 
+"
+Водевиль,1884,Chekhov,prose,"The best genres to describe the text are: **Realism, Satire, Drama**. 
+
+Here's why:
+
+* **Realism:**  The story focuses on everyday life and characters, portraying the social dynamics and tensions of the time. The characters are believable and their actions relatable.
+* **Satire:** The text uses humor to critique societal norms, specifically those related to social climbing, class differences, and the absurdity of power dynamics. The characters and events are exaggerated to highlight their ridiculousness.
+* **Drama:** The story involves conflict and tension, particularly in the interactions between the characters. There's a clear sense of building drama, culminating in a climax of sorts with the potential consequences of Kloчков's actions. 
+
+The other options are less applicable:
+
+* **Romanticism:** The text doesn't emphasize emotion, imagination, or the supernatural, which are key aspects of Romanticism.
+* **Symbolism:** The story doesn't use symbolism in a way that is central to the plot or meaning.
+* **Modernism:**  The text lacks the experimental techniques and psychological depth often associated with Modernism.
+* **Socialist Realism:**  The story doesn't focus on themes of class struggle or the socialist ideal.
+* **Science Fiction:**  The story doesn't involve futuristic technology or scientific concepts.
+* **Gothic:** The story doesn't feature the macabre, the supernatural, or dark themes commonly found in Gothic literature.
+* **Epic:**  The story is not grand in scope or length, nor does it involve heroes or legendary events.
+* **Mystery and Detective Fiction:** The story doesn't involve a mystery or an investigation. 
+"
+Володя,1887,Chekhov,prose,"Realism, Drama, Satire 
+"
+Восклицательный знак,1885,Chekhov,prose,"Realism, Satire 
+"
+Враги,1887,Chekhov,prose,"Realism, Satire, Drama 
+"
+Встреча весны,1882,Chekhov,prose,"The best genres for this text are: **Realism, Satire**. 
+
+Here's why:
+
+* **Realism:** The text focuses on everyday life in Moscow,  describing specific details about the weather, people's activities, and social anxieties. It avoids overly romanticized or idealized portrayals. 
+* **Satire:** The text uses humor and exaggeration to critique various aspects of society. For example, it mocks poets and their clichés,  commercial greed, the anxieties of doctors and patients, and the overall chaotic nature of the arrival of spring. 
+
+The other genres are not as fitting:
+
+* **Romanticism:** The text lacks the emotional intensity and idealization typical of Romanticism.
+* **Symbolism:** While there are some symbolic elements (like the ""spring"" personified as a woman), they are not central to the text.
+* **Modernism:** The text doesn't explore themes of alienation, subjectivity, or modernist experimentation.
+* **Socialist Realism:**  The text doesn't promote socialist ideals or a specific political agenda.
+* **Science Fiction:** There are no futuristic elements or scientific concepts. 
+* **Gothic:** The text lacks elements of horror, supernatural, or dark atmosphere.
+* **Epic:** The text is too short and focused on specific details to be considered an epic. 
+* **Drama:** While the text has some dramatic elements, it lacks the structured plot and dialogue of a play.
+* **Mystery and Detective Fiction:** The text doesn't present a mystery or involve any detective work. 
+"
+Выигрышный билет,1887,Chekhov,prose,"The best genres to describe the text are: **Realism, Satire, Drama**. 
+
+Here's why:
+
+* **Realism:** The story focuses on the everyday lives of ordinary people (Ivan Dmitrič and his wife), their struggles, and their desires. The setting and details are grounded in reality, with no fantastical elements. 
+* **Satire:** The story subtly mocks the characters' dreams and aspirations. It criticizes their petty materialism, their focus on financial gain over genuine happiness, and their self-centeredness.  
+* **Drama:** The story presents a conflict between the characters' initial hope and their eventual disillusionment.  Their emotions and reactions are explored, creating a sense of dramatic tension. 
+
+The other genres are not as fitting:
+
+* **Romanticism:**  There are no elements of idealized love, heightened emotions, or a focus on the beauty of nature that characterize Romanticism. 
+* **Symbolism:**  The story doesn't utilize symbolism in a significant way.
+* **Modernism:** The text lacks the experimental techniques and fragmentation associated with Modernism. 
+* **Socialist Realism:** The text does not focus on social or political issues from a socialist perspective.
+* **Science Fiction, Gothic, Mystery and Detective Fiction:**  These genres are entirely absent from the story's plot and themes. 
+* **Epic:** The story's scope is too limited to be considered epic. 
+"
+Глупый француз,1886,Chekhov,prose,"The best single-word genres to describe the text are: **Satire, Realism**. 
+
+Here's why:
+
+* **Satire:** The story uses humor and exaggeration to criticize the absurdity of Russian society. The French clown's observations highlight the perceived gluttony and lack of concern for the well-being of the individual within the context of the restaurant's profit-driven mentality.
+* **Realism:** The story focuses on everyday life and relatable situations within a Russian restaurant setting. The characters are believable, and the actions are grounded in a realistic portrayal of social interactions and cultural differences. 
+
+While other genres might have some elements present, they aren't the primary focus:
+
+* **Romanticism:**  There's no emphasis on heightened emotion, imagination, or idealized characters.
+* **Symbolism:** The story doesn't rely on symbolic imagery or hidden meanings.
+* **Modernism:**  The story doesn't engage with experimental techniques or subjective narratives commonly associated with Modernism.
+* **Socialist Realism:**  The story lacks the themes of socialist ideology and worker empowerment.
+* **Science Fiction:** The story doesn't involve futuristic settings, technology, or supernatural elements.
+* **Gothic:** The story doesn't involve the dark, mysterious, or supernatural themes typically found in Gothic literature.
+* **Epic:** The story lacks the grand scale, heroic figures, and historical scope of an epic.
+* **Drama:** While the story has elements of tension and conflict, it lacks the dramatic structure and emotional intensity of a play.
+* **Mystery and Detective Fiction:** The story doesn't involve a crime, a detective, or an investigation. 
+"
+Горе,1885,Chekhov,prose,"Realism, Satire, Drama 
+"
+Гость,1885,Chekhov,prose,"The best single-word genres to describe the text are: **Realism, Satire, Drama**. 
+
+Here's why:
+
+* **Realism:** The story focuses on everyday life, depicting relatable characters and situations with a focus on social commentary and realistic portrayal of human nature.
+* **Satire:** The story satirizes the stereotypical behaviors of old, talkative men and uses exaggeration to mock the foolishness and self-centeredness of the characters.
+* **Drama:** The story revolves around conflict, tension, and the struggles of the protagonist to escape the unwanted visitor. 
+"
+Грешник из Толедо,1881,Chekhov,prose,"The genres that best describe the text are: 
+
+* **Realism** 
+* **Gothic** 
+* **Satire** 
+"
+Гриша,1886,Chekhov,prose,"Realism, Drama 
+"
+Гусев,1890,Chekhov,prose,"Realism, Satire, Drama 
+"
+Дама с собачкой,1899,Chekhov,prose,"Realism, Drama 
+"
+Дачники,1885,Chekhov,prose,"Realism, Satire, Drama 
+"
+Дачница,1884,Chekhov,prose,"The genres that best describe the text are: **Realism, Satire, Drama**. 
+
+Here's why:
+
+* **Realism:** The story depicts everyday life and characters with a focus on social issues and societal norms. The portrayal of the husband's mundane routine, his lack of depth, and the contrast between Lelia's expectations and reality are all hallmarks of Realism.
+* **Satire:**  The text uses humor and irony to expose the flaws and absurdities of the husband's character and behavior. The description of his ""thoughtful"" moments and his nonsensical pronouncements are examples of satirical elements.
+* **Drama:** The story explores the emotional and psychological struggles of Lelia, her disillusionment with her marriage, and the internal conflict between her hopes and reality. The use of dramatic irony in her realization that her husband is not the romantic hero she envisioned adds to the dramatic impact. 
+"
+Два скандала,1882,Chekhov,prose,"Realism, Satire, Drama 
+"
+Двадцать девятое июня,1881,Chekhov,prose,"The best single-word genres to describe the text are: 
+
+* **Realism**
+* **Satire** 
+"
+День за городом,1886,Chekhov,prose,"The best single-word genres to describe the text are: **Realism, Drama, Satire.** 
+
+Here's why:
+
+* **Realism:** The story is grounded in everyday life and depicts characters and situations that could realistically occur in rural Russia. 
+* **Drama:** The story revolves around a conflict (Danila's trapped hand), which builds tension and ultimately has a resolution.
+* **Satire:**  The story subtly mocks societal attitudes towards poverty, education, and superstition.  This is evident through the character of Terenty, who represents a simplistic, yet ""wise"" perspective of the world, and the villagers who rely on such beliefs. 
+
+The other options are less fitting:
+
+* **Romanticism:** While the story has moments of beauty and natural imagery, it lacks the emphasis on emotion, individual experience, and the sublime that define Romanticism.
+* **Symbolism:** There are no clear, consistent symbolic elements in the text.
+* **Modernism:** The story lacks the experimental techniques, stream of consciousness, or focus on interiority typically associated with Modernism.
+* **Socialist Realism:**  There's no clear focus on social class conflict, the glorification of the working class, or a socialist agenda.
+* **Science Fiction:** The story doesn't deal with futuristic technology, space travel, or other science fiction themes.
+* **Gothic:** There are no elements of horror, the supernatural, or decay that characterize Gothic literature.
+* **Epic:** The story is too brief and focused on a small-scale situation to be considered an epic. 
+* **Mystery and Detective Fiction:** The story doesn't involve a mystery or a detective. 
+"
+Детвора,1886,Chekhov,prose,"The text above can be categorized as:  **Realism, Satire, Drama**. 
+
+Here's why:
+
+* **Realism:** The story focuses on everyday life, ordinary people, and the complexities of family dynamics. The language is simple and the characters are relatable. 
+* **Satire:** The story subtly mocks the behaviors and attitudes of the children, particularly their obsession with money and their childish squabbles. It also satirizes the adult world through the children's perspectives.
+* **Drama:** The story has a clear conflict (the children's desire to play despite the rules and their subsequent squabbles), rising action (the escalation of the game and the arguments), and a resolution (the children falling asleep, the conflict temporarily resolved). 
+"
+Дипломат,1885,Chekhov,prose,"The best single-word genres that describe the text are:  **Satire, Realism, Drama**. 
+
+Here's why:
+
+* **Satire:** The story uses humor and exaggeration to criticize the absurdity of social conventions and human behavior, particularly the reactions of the characters to the potential death of Anna Львовна. The way the characters misunderstand each other and the convoluted way they communicate adds to the satirical effect.
+* **Realism:** The story portrays everyday life and ordinary people with a focus on social realities, such as the relationships between husband and wife, the gossipy nature of small communities, and the bureaucratic world of government service.
+* **Drama:** The story features conflict and tension, particularly around the misunderstanding surrounding Anna Львовна's death. The build-up of suspense and the emotional turmoil of the characters create a dramatic effect. 
+"
+Добрый знакомый,1882,Chekhov,prose,"Realism, Satire 
+"
+Дом с мезонином,1896,Chekhov,prose,"Realism, Gothic 
+"
+Дома,1887,Chekhov,prose,"Realism, Satire 
+"
+Дополнительные вопросы,1882,Chekhov,prose,"Satire 
+"
+Дорогая собака,1885,Chekhov,prose,"Realism, Satire, Drama 
+"
+Дорогие уроки,1887,Chekhov,prose,"Realism, Satire 
+"
+Дочь Альбиона,1883,Chekhov,prose,"The best single-word genres to describe the text are: **Realism, Satire**. 
+"
+Душечка,1899,Chekhov,prose,"The best single-word genres to describe the text are: **Realism, Satire, Drama**. 
+
+Here's why:
+
+* **Realism:** The story focuses on everyday life and characters, with a focus on social commentary and the mundane. There's a strong emphasis on details and accuracy in depicting the life of the characters and their world.
+* **Satire:** The story subtly mocks social conventions and behaviors, particularly those related to marriage, love, and societal expectations. The characters are often portrayed as naive, gullible, or driven by petty desires, creating a sense of irony and humor.
+* **Drama:** The story focuses on the emotional and psychological complexities of its characters, particularly as they navigate loss, love, and longing. It has a strong emotional core and builds to a climax (the arrival of the veterinarian). 
+
+The other genres listed don't fit as well:
+
+* **Romanticism:**  The story lacks the typical romantic themes of idealized love, nature, or the supernatural.
+* **Symbolism:** There aren't strong symbolic elements or recurring motifs that carry deeper meaning.
+* **Modernism:** The story lacks the experimental techniques and fragmented narratives often associated with Modernism.
+* **Socialist Realism:**  There's no explicit social commentary or promotion of socialist ideals.
+* **Science Fiction:** There are no futuristic technologies or elements of science fiction.
+* **Gothic:** The story doesn't contain the horror, mystery, or supernatural elements characteristic of Gothic literature.
+* **Epic:**  The story lacks the grand scope, heroic figures, and epic themes typically associated with epic literature.
+* **Mystery and Detective Fiction:** There's no mystery to be solved or a detective character. 
+"
+Дуэль,1891,Chekhov,prose,"Please provide the text you are referring to so I can identify the best-fitting genres. 
+"
+Злоумышленник,1885,Chekhov,prose,"Realism, Satire, Drama 
+"
+Ионыч,1898,Chekhov,prose,"Realism, Satire 
+"
+Каштанка,1887,Chekhov,prose,"Realism, Satire 
+"
+Крыжовник,1898,Chekhov,prose,"Realism, Satire 
+"
+Лошадиная фамилия,1885,Chekhov,prose,"Realism, Satire 
+"
+Налим,1885,Chekhov,prose,"Realism, Satire, Drama 
+"
+О любви,1898,Chekhov,prose,"Realism, Drama 
+"
+Палата №6,1892,Chekhov,prose,"The best single-word genres that describe ""Палата No 6"" are: 
+
+* **Realism** 
+* **Satire** 
+* **Drama** 
+"
+Пересолил,1885,Chekhov,prose,"Realism, Satire 
+"
+Смерть чиновника,1883,Chekhov,prose,"Realism, Satire, Drama 
+"
+Толстый и тонкий,1883,Chekhov,prose,"Realism, Satire 
+"
+Тоска,1886,Chekhov,prose,"Realism, Drama 
+"
+Три сестры,1901,Chekhov,prose,"Drama, Realism, Satire 
+"
+Хамелеон,1884,Chekhov,prose,"Realism, Satire 
+"
+Хирургия,1884,Chekhov,prose,"Realism, Satire, Drama 
+"
+Человек в футляре,1898,Chekhov,prose,"Realism, Satire 
+"
+Доктор Крупов,1847,Herzen,prose,"The text above can be best described as:  **Realism, Satire**. 
+
+Here's why:
+
+* **Realism:** The text focuses on portraying everyday life and social issues in a realistic manner. It depicts the mundane struggles of ordinary people, the social hierarchies, and the  prejudices of the time. 
+* **Satire:**  The text uses humor and exaggeration to critique societal norms and institutions. It mocks the hypocrisy and irrationality of the characters and their actions, particularly within the context of social, political, and medical practices. 
+
+The other genres listed are not as prominent:
+
+* **Romanticism, Symbolism, Modernism, Socialist Realism, Science Fiction, Gothic, Epic, Drama, Mystery and Detective Fiction:**  While elements of these genres might be present in a nuanced way, they are not the primary defining characteristics of the text. 
+"
+Долг прежде всего,1851,Herzen,prose,"Realism, Satire, Epic, Drama 
+"
+Елена,1838,Herzen,prose,"The best single-word genres to describe the text are: **Romanticism, Gothic, Satire, and Drama**. 
+
+Here's why:
+
+* **Romanticism:** The text is heavily imbued with Romantic themes: passionate love, the idealization of nature, the individual struggling against societal constraints,  the power of emotion, and the exploration of dark, supernatural elements. 
+* **Gothic:** The text features several Gothic elements, including:
+    *  A brooding, atmospheric setting
+    *  Supernatural elements (visions, dreams, and the uncanny)
+    *  Themes of death, decay, and madness
+    *  A focus on psychological torment 
+* **Satire:** The text employs sharp wit and irony to criticize societal norms, particularly those of the aristocracy and the court. The characters' actions, motivations, and their distorted understanding of love and morality are satirized. 
+* **Drama:** The text possesses a strong narrative drive, multiple compelling characters with conflicting desires, and a  focus on emotional and psychological conflict. 
+
+While the text certainly explores elements of realism, the focus on emotion, the supernatural, and the author's critical commentary on societal conventions make the other genres more prominent. 
+"
+Кто виноват,1846,Herzen,prose,"Realism, Romanticism, Satire, Epic, Drama 
+"
+Легенда,1836,Herzen,prose,"Romanticism, Gothic, Epic, Drama 
+"
+Мимоездом,1846,Herzen,prose,"Realism, Satire 
+"
+С того берега,1851,Herzen,prose,"The best single-word genres that describe the text are: 
+ 
+* **Romanticism** 
+* **Satire**
+* **Epic**
+* **Drama** 
+"
+Скуки ради,1869,Herzen,prose,"The best single-word genres that describe the text are:  **Realism, Satire**. 
+
+Here's why:
+
+* **Realism:** The text focuses on everyday life, ordinary people, and social issues. It paints a detailed and often critical portrait of Geneva and its inhabitants, emphasizing the mundane aspects of their lives. 
+* **Satire:**  The text uses humor, irony, and exaggeration to critique the characters, institutions, and societal norms of Geneva.  The author mocks the hypocrisy of the Genevan elite, the obsession with political maneuvering, and the rigid social structures. 
+
+While elements of other genres might be present, these two are the most dominant and defining characteristics of the text. 
+"
+Сорока-воровка,1848,Herzen,prose,"Realism, Romanticism, Drama, Satire 
+"
+Трагедия за стаканом грога,1864,Herzen,prose,"Realism, Satire, Drama 
+"
+Вечера на хуторе близ Диканьки,1831,Gogol,prose,"Romanticism, Gothic, Satire, Epic 
+"
+Вий,1835,Gogol,prose,"Gothic, Satire, Epic, Mystery 
+"
+Записки сумасшедшего,1835,Gogol,prose,"The best single-word genres to describe ""Notes from Underground"" are: 
+* **Satire**
+* **Gothic**
+* **Realism** 
+
+Here's why:
+
+* **Satire:** The text is highly critical of social norms, societal expectations, and particularly the behavior of the upper classes. It uses humor and exaggeration to expose their hypocrisy and absurdity.
+* **Gothic:** The text delves into the protagonist's psychological torment, creating a dark and unsettling atmosphere. It also features themes of isolation, madness, and a sense of the grotesque.
+* **Realism:**  The text portrays a vivid and often gritty depiction of everyday life in 19th-century Russia. The protagonist's experiences and internal struggles feel authentic and relatable, even though they are exaggerated. 
+
+While there are elements of other genres present, these three are the most prominent and define the overall character of the text. 
+"
+Коляска,1835,Gogol,prose,"Satire, Realism 
+"
+Мёртвые души,1842,Gogol,prose,"The best single-word genres to describe ""Dead Souls"" are: 
+
+**Realism, Satire, Epic** 
+"
+Невский проспект,1833,Gogol,prose,"Realism, Satire 
+"
+Нос,1835,Gogol,prose,"Satire, Mystery and Detective Fiction, Realism 
+"
+Ночи на вилле,1839,Gogol,prose,"Realism, Gothic, Satire, Epic 
+"
+Ночь перед Рождеством,1832,Gogol,prose,"The genres that best describe the text are: 
+Romanticism, Gothic, Satire, Epic 
+"
+"Повесть о том, как поссорился Иван Иванович с Иваном Никифоровичем",1835,Gogol,prose,"Realism, Satire 
+"
+Портрет,1833,Gogol,prose,"Realism, Gothic, Satire, Mystery and Detective Fiction 
+"
+Ревизор,1836,Gogol,prose,"The best single-word genres that describe the text above are: **Satire, Drama**. 
+
+Here's why:
+
+* **Satire:** The play is a satirical commentary on Russian society, particularly its corruption and hypocrisy. It uses humor and exaggeration to expose the flaws of its characters and institutions.
+* **Drama:** ""The Inspector General"" is a play, a dramatic work meant to be performed. 
+
+While other genres could be applied in some ways, they don't fit as well as satire and drama:
+
+* **Realism:**  While the play presents some realistic details, it exaggerates for comedic effect, making it more satirical than realistic.
+* **Romanticism:**  The play doesn't focus on themes or characters that are typically associated with Romanticism, like individual passion or idealized nature.
+* **Symbolism:**  The play has some symbolic elements, but it's not primarily driven by symbolism.
+* **Modernism:**  The play was written in the 19th century, predating modernism.
+* **Socialist Realism:**  This is a Soviet-era literary movement, and ""The Inspector General"" was written long before its rise.
+* **Science Fiction:**  The play has no science fiction elements.
+* **Gothic:**  While there are some elements of the absurd, the play doesn't fit the conventions of Gothic literature.
+* **Epic:**  The play is not a lengthy narrative poem with a grand scope.
+* **Mystery and Detective Fiction:** The play is not a mystery or detective story; while there is a mystery around the identity of the ""Inspector General,"" it's more for comic effect than a plot driver. 
+"
+Рим,1842,Gogol,prose,"Please provide the text you are referring to so I can determine the appropriate genres. 
+"
+Старосветские помещики,1835,Gogol,prose,"Realism, Satire 
+"
+Тарас Бульба,1835,Gogol,prose,"The best single-word genres to describe the text are: **Epic, Realism, Gothic, Drama, Satire** 
+
+Here's a breakdown of why:
+
+* **Epic:** The text has a grand scope, spanning vast landscapes, epic battles, and themes of freedom, faith, and betrayal. 
+* **Realism:** The story portrays characters and situations with a degree of detail and verisimilitude, aiming to reflect real life in 17th-century Ukraine. 
+* **Gothic:** The story features elements of the supernatural,  death, and violence, often in dark and desolate settings. 
+* **Drama:** The text is driven by conflict, emotional intensity, and the fates of compelling characters.
+* **Satire:** The story subtly mocks societal norms, especially the hypocrisy of Polish nobility and the greed of Jews, while showcasing the strength and values of the Cossacks. 
+
+The other genres are less suitable:
+
+* **Romanticism:** While there are elements of romantic love, the text emphasizes realism and the harsh realities of war. 
+* **Symbolism:** The text uses symbols, but they are not central to the narrative in a way that defines the genre.
+* **Modernism:** The text lacks the experimental techniques and fragmented narratives associated with Modernism. 
+* **Socialist Realism:** The story doesn't focus on socialist themes or portray idealized workers.
+* **Science Fiction:** There are no science-fiction elements in the story.
+* **Mystery and Detective Fiction:**  The text doesn't feature a detective or a central mystery to solve. 
+"
+Шинель,1842,Gogol,prose,"The word ""Шинель"" (Shinel) is a Russian word that translates to ""Overcoat."" It is the title of a famous short story by Nikolai Gogol.  
+
+Based on this information, the best single-word genres to describe ""Shinel"" are:
+
+**Realism, Satire, Drama** 
+
+Here's why:
+
+* **Realism:** Gogol's works often depict the everyday lives of ordinary people in Russia, focusing on the social and economic realities of the time. 
+* **Satire:** ""Shinel"" is known for its satirical commentary on bureaucracy, social inequality, and the dehumanizing effects of poverty.
+* **Drama:** While not a full-fledged play, the story has a dramatic narrative structure, focusing on the plight of the protagonist and the consequences of his situation. 
+
+While ""Shinel"" may contain elements of other genres, these three are the most prominent and essential to its core nature. 
+"
+Ашик-Кериб,1846,Lermontov,prose,"The text above can be categorized as: **Epic, Romance** 
+
+Here's why:
+
+* **Epic:** The story features a hero (Aşık-Kerib) undertaking a challenging journey, facing trials, and achieving a great feat (reuniting with his beloved). The story also has a grand scope, spanning multiple locations and incorporating supernatural elements.
+* **Romance:** The central plot revolves around the love story between Aşık-Kerib and Magül-Megeri, emphasizing their emotional journey and eventual reunion. 
+
+While the story contains elements of other genres, they are less prominent: 
+
+* **Drama:** The story does have emotional conflict and tension, but it's primarily driven by the romantic narrative.
+* **Gothic:**  The supernatural element with the ""white knight"" could be considered Gothic, but it's not the main focus of the story. 
+
+The other genres listed are not present in the story. 
+"
+Герой нашего времени,1840,Lermontov,prose,"Realism, Romanticism, Gothic, Satire, Epic, Drama, Mystery 
+"
+Штосс,1845,Lermontov,prose,"The text best fits the genres: **Romanticism, Gothic, Mystery and Detective Fiction**. 
+
+Here's why:
+
+* **Romanticism:** The text features a focus on the emotional and imaginative aspects of human experience.  The protagonist is driven by passion and idealized love, which are central themes in Romanticism. The text also emphasizes the power of nature and the supernatural, both key elements of Romantic literature.
+* **Gothic:** The story has elements of the supernatural, including the ghostly figure of the old man and the mysterious woman who appears to the protagonist. The setting is also gothic, with the old, decaying apartment building contributing to the atmosphere of mystery and unease.
+* **Mystery and Detective Fiction:**  The text features an element of mystery surrounding the identity of the old man and the woman, and the protagonist's investigation into the mysterious address he's given.  The reader is left wondering about their motivations and the truth behind the supernatural events.
+
+The other genres are less suitable:
+
+* **Realism:** While the text is grounded in some sense of reality, it leans heavily on the fantastical and supernatural, which are not typical of Realism.
+* **Symbolism:** Although there are symbolic elements, they aren't central to the plot or character development in the way they are in Symbolism.
+* **Modernism:** The text lacks the fragmented narrative, experimental form, and focus on alienation that characterize Modernism.
+* **Socialist Realism:** This genre focuses on socialist themes, which are absent from the text.
+* **Science Fiction:**  There are no elements of futuristic technology or space travel.
+* **Satire:**  While there is a sense of irony and absurdity in the narrative, satire isn't the dominant theme.
+* **Epic:** The text lacks the scope and grandeur typical of an epic.
+* **Drama:** This text is more focused on character and plot, rather than dialogue and stage direction, which are hallmarks of drama. 
+"
+Бывшие люди,1897,Gorky,prose,"Realism, Satire, Epic, Drama 
+"
+В людях,1915,Gorky,prose,"Please provide the text you'd like me to analyze for genres. I need the text to determine which genres best describe it. 
+"
+В степи,1897,Gorky,prose,"The text best fits these genres: Realism, Epic, Satire. 
+"
+Вывод,1895,Gorky,prose,"Realism, Drama, Satire 
+"
+Город жёлтого дьявола,1906,Gorky,prose,"Realism, Symbolism, Modernism, Socialist Realism, Satire, Epic, Drama 
+"
+Двадцать шесть и одна,1899,Gorky,prose,"Realism, Socialist Realism, Epic, Drama 
+"
+Дело с застёжками,1895,Gorky,prose,"Realism, Satire 
+"
+Детство,1914,Gorky,prose,"The word ""Детство"" (Childhood) is a Russian word. Without any context or further information about the text, it's impossible to determine its genre. 
+
+Please provide more information about the text, such as:
+
+* **The author:** Who wrote this text?
+* **The content:** What is the text about? What are the themes, characters, and plot?
+* **The style:** What kind of language is used? Is it descriptive, poetic, formal, or informal? 
+
+With more information, we can better identify the appropriate genres. 
+"
+Емельян Пиляй,1893,Gorky,prose,"Realism, Satire 
+"
+Знахарка,1923,Gorky,prose,"Realism, Gothic 
+"
+Коновалов,1898,Gorky,prose,"The best single-word genres to describe the text are: **Realism, Epic, Drama**. 
+
+Here's why:
+
+* **Realism:** The story focuses on depicting everyday life and social issues of the working class in Russia. It provides a detailed and authentic portrayal of characters, their struggles, and their environment.
+* **Epic:** The story has a grand scope, covering a significant period in the protagonist's life, including his journeys and encounters with various characters. 
+* **Drama:** The story explores themes of human nature, loneliness, freedom, and the search for meaning. The characters face challenging situations and experience intense emotions, creating a dramatic tension.
+
+While the text touches on other aspects, the primary focus and strength of the story lie in these three genres. 
+"
+Ледоход,1912,Gorky,prose,"The best single-word genres that describe the text are: **Realism, Symbolism, Epic, Drama**. 
+
+Here's why:
+
+* **Realism:** The story depicts a realistic portrayal of life for working-class people in pre-revolutionary Russia. The focus on their daily struggles, relationships, and social dynamics points towards Realism.
+* **Symbolism:** The story utilizes symbolism, especially in the depiction of the river and the ice, representing change, fate, and the forces of nature. 
+* **Epic:**  The story has an epic feel due to its expansive setting, the struggle against nature, and the journey undertaken by the characters. 
+* **Drama:** The story is dramatic in its portrayal of the characters' anxieties and fears, the looming threat of the breaking ice, and the conflicting personalities.
+
+While elements of other genres might be present, these four genres best encapsulate the overall nature of the story. 
+"
+Ма-аленькая!...,1895,Gorky,prose,"The text best fits the genres: **Realism, Epic**. 
+
+Here's why:
+
+* **Realism:** The story focuses on the everyday lives of ordinary people, their struggles, and their relationships. It depicts the hardships of peasant life and the strong bonds of human connection. The language is direct and unadorned, avoiding romanticization.
+* **Epic:** The story has elements of an epic tale: a journey of great distance, the pursuit of a noble goal (prayer for the deceased), and a strong sense of timelessness. The narrative arc touches on themes of fate, loss, and human resilience. 
+
+The other genres are not as prominent:
+
+* **Romanticism:** While there is a focus on the beauty of nature and emotional sentiment, the story lacks the idealized depictions of nature and heroes typical of Romanticism.
+* **Symbolism:**  There are some symbolic elements, like the fire that kills the girl, but they are not central to the story's meaning.
+* **Modernism:**  The story lacks the experimental techniques and fragmented narratives characteristic of Modernism.
+* **Socialist Realism:**  While it touches on the plight of peasants, it lacks the explicit political message of Socialist Realism.
+* **Science Fiction, Gothic, Satire, Mystery and Detective Fiction:**  These genres are not present in the story.
+* **Drama:** The story is more narrative than dramatic, lacking the direct dialogue and conflict typical of drama. 
+"
+Макар Чудра,1892,Gorky,prose,"Realism, Epic, Drama 
+"
+Мать,1906,Gorky,prose,"Please provide the text you'd like me to analyze. I need the text to determine the best-fitting genres. 
+"
+Мещане,1901,Gorky,prose,"The best single-word genres to describe the text are: **Realism, Satire, Drama**. 
+
+Here's why:
+
+* **Realism:** The play focuses on everyday life of a middle-class family, presenting their struggles, conflicts, and relationships in a realistic manner.  There's a strong emphasis on portraying the social and economic realities of the time.
+* **Satire:** The play uses humor and exaggeration to critique societal norms, specifically the values and attitudes of the merchant class, their hypocrisy, and their blind adherence to tradition.
+* **Drama:** The text is a play, intended to be performed on stage. It features conflict, tension, and character development within a story that unfolds through dialogue and action. 
+
+The other genres are less fitting:
+
+* **Romanticism:**  While there are some elements of emotional intensity and individual expression, the overall tone and focus of the play are more grounded in realistic depiction.
+* **Symbolism:** There are a few symbolic elements, but they are not central to the play's meaning.
+* **Modernism:** The play's themes and style are more aligned with late 19th-century realism and satire than with the experimental and more fragmented style of modernism.
+* **Socialist Realism:**  While the play touches on social issues, it does not conform to the specific ideology and aesthetic of Socialist Realism.
+* **Science Fiction, Gothic, Mystery and Detective Fiction:** None of these genres are applicable to the play's content or style.
+* **Epic:** The play's scope is too limited in terms of characters, setting, and time to be considered an epic. 
+"
+Мои университеты,1923,Gorky,prose,"The best single-word genres to describe ""My Universities"" by Maxim Gorky are: 
+Realism, Epic, Satire, Drama
+"
+На дне,1902,Gorky,prose,"Realism, Drama, Satire 
+"
+На плотах,1895,Gorky,prose,"Realism, Drama, Epic 
+"
+Несвоевременные мысли,1918,Gorky,prose,"Here are the genres that best describe the text, based on the characteristics you provided: 
+
+* **Realism:**  The text heavily focuses on portraying the social and political realities of Russia during the revolution, with detailed descriptions of the struggles and complexities of the time.
+* **Satire:**  Gorky uses biting wit and irony to critique various aspects of Russian society, including the hypocrisy of political figures and the backwardness of the people.
+* **Epic:** The text spans a broad range of themes and social issues, covering the revolution, the nature of the Russian people, and the role of culture and knowledge in national development.  
+* **Drama:** The text is highly dramatic, filled with tension, conflict, and vivid descriptions of events like the July Days uprising and the plight of those suffering under the new regime.
+
+It's worth noting that the text doesn't fit neatly into any single genre.  It blends elements of realism, satire, and epic to create a multifaceted and insightful commentary on Russia's tumultuous period. 
+"
+Озорник,1897,Gorky,prose,"Realism, Satire, Drama 
+"
+Песня о Буревестнике,1901,Gorky,prose,"The best single-word genres to describe ""The Song of the Stormy Petrel"" are: 
+
+* **Romanticism**
+* **Symbolism** 
+* **Epic** 
+"
+Песня о соколе,1899,Gorky,prose,"The best single-word genres to describe the text are: **Romanticism, Symbolism, Epic**. 
+
+Here's why:
+
+* **Romanticism:**  The text emphasizes emotional responses to nature, the sublime, and the power of the individual. The story of the falcon and the snake is a clear example of Romantic ideals, with its focus on freedom, courage, and the struggle against limitations. 
+* **Symbolism:** The story utilizes symbolic imagery to represent abstract concepts. The sea, the mountains, the falcon, the snake, and the stars all hold symbolic weight, representing themes of life, death, ambition, and the search for meaning.
+* **Epic:** The text possesses elements of epic poetry, including a grand setting, a heroic figure (the falcon), a focus on nature, and a sense of destiny.  
+
+While elements of realism are present in the text, the overall focus on symbolism and emotional response make it less a straightforward realist story.  The other genres listed don't fit the tone or themes of the piece. 
+"
+Проходимец,1898,Gorky,prose,"Realism, Satire, Epic 
+"
+Рождение человека,1912,Gorky,prose,"Realism, Epic, Drama 
+"
+Сказки об Италии,1913,Gorky,prose,"The text best fits the following genres: Realism, Epic, Drama. 
+"
+Скуки ради,1897,Gorky,prose,"Realism, Satire, Drama 
+"
+Старуха Изергиль,1895,Gorky,prose,"The best single-word genres that describe the text are: **Romanticism, Symbolism, Epic**. 
+
+Here's why:
+
+* **Romanticism:** The story emphasizes strong emotions, individual heroism (Danco), the beauty of nature, and a sense of the sublime (the forest, the storm). It also features a strong emphasis on the past and a sense of longing for a lost golden age.
+* **Symbolism:** The story is rich in symbolism: the burning heart of Danco represents self-sacrifice and love for humanity, the forest symbolizes the struggles and darkness of life, and the blue sparks represent the enduring memory of heroism.
+* **Epic:** The story has a grand scope, featuring a large-scale conflict between different groups of people, a journey through a dangerous landscape, and the powerful, heroic actions of a central character. 
+
+While there are elements of other genres, these three genres are the most prominent and define the core of the text. 
+"
+Страсти-мордасти,1913,Gorky,prose,"Realism, Drama, Gothic, Satire 
+"
+Фома Гордеев,1899,Gorky,prose,"The best single-word genres that describe the text are: 
+
+* **Realism** 
+* **Epic**
+* **Satire** 
+* **Drama** 
+
+Here's why:
+
+* **Realism:** The novel focuses on depicting everyday life of Russian merchants and workers, their struggles, their ambitions, and the social context of their lives.  It avoids idealized portrayals and focuses on the gritty realities of Russian society during that period.
+* **Epic:** The story spans several years and covers the lives of multiple characters, including their childhood, struggles, and deaths. The scope of the story is vast and detailed, with a strong focus on social and economic themes. 
+* **Satire:** The novel is filled with irony and critical commentary on social structures,  religious hypocrisy, the pursuit of wealth, and the greed of the merchant class. 
+* **Drama:** The novel features a rich tapestry of characters with complex relationships, strong emotions, and intense conflicts. It explores themes of love, loss, betrayal, and the search for meaning in a challenging world.
+
+The other genres are less prominent in the text:
+
+* **Romanticism:** While there are some moments of emotional intensity, the story lacks the idealized, emotional, and subjective perspective often associated with Romanticism.
+* **Symbolism:** The text uses some symbols, but they are not central to the story's overall meaning or its impact.
+* **Modernism:**  The story doesn't exhibit the experimentation with form, stream of consciousness, or psychological exploration characteristic of Modernism. 
+* **Socialist Realism:** The story doesn't focus on explicitly praising the working class and promoting socialist ideals.
+* **Science Fiction, Gothic, Mystery and Detective Fiction:** These genres are not present in the text. 
+"
+Челкаш,1895,Gorky,prose,"Realism, Satire, Drama, Epic 
+"
+Человек,1903,Gorky,prose,"The text best fits these genres: **Realism, Symbolism, Epic, Drama.**
+
+Here's why:
+
+* **Realism:** The text features a realistic portrayal of the human struggle,  highlighting internal conflicts, societal problems, and a focus on the individual's journey through life.
+* **Symbolism:** The text uses many symbolic elements: the sun representing hope, the clouds representing mundane concerns,  ""Thoughts"" embodying reason, and ""Faith"" representing blind adherence. 
+* **Epic:** The text presents a large-scale, grandiose journey of a character who is representative of all humanity. It deals with fundamental questions of life, death, and the meaning of existence. 
+* **Drama:** The text is written in a dramatic and emotional style, with a clear internal conflict within the character, highlighting their struggle for self-discovery and meaning. 
+
+The other genres are less fitting:
+
+* **Romanticism:** While there's a sense of idealism, the text lacks the typical Romantic focus on emotionality, individualism, and nature.
+* **Modernism:** The text doesn't show the fragmentation, stream-of-consciousness, or alienation that characterizes Modernist literature.
+* **Socialist Realism:** The text doesn't have a strong focus on promoting socialist ideology or depicting working-class life. 
+* **Science Fiction, Gothic, Satire, Mystery and Detective Fiction:** These genres are not represented in the text's content or style. 
+"
+Ярмарка в Голтве,1897,Gorky,prose,"The text most closely aligns with these genres: 
+
+Realism, Satire, Epic 
+"
+Алёша Горшок,1905,Tolstoy,prose,"Realism, Epic, Drama 
+"
+Альберт,1858,Tolstoy,prose,"Realism, Romanticism, Epic, Drama 
+"
+Анна Каренина,1877,Tolstoy,prose,"Realism, Epic, Drama 
+"
+Божеское и человеческое,1906,Tolstoy,prose,"The phrase ""Божеское и человеческое"" (Divine and Human) doesn't provide enough context to definitively determine genres. However, based on the potential themes evoked by the phrase, here's a possible list of genres:
+
+* **Drama**
+* **Epic**
+* **Symbolism** 
+
+The phrase suggests themes of human nature, spirituality, and perhaps conflict between the two, which are common in these genres.  
+
+Without more information about the specific text, it's impossible to be certain. 
+"
+Война и мир. Том 1,1867,Tolstoy,prose,"Realism, Epic, Drama 
+"
+Война и мир. Том 2,1868,Tolstoy,prose,"Realism, Epic, Drama, Satire 
+"
+Война и мир. Том 3,1868,Tolstoy,prose,"Realism, Epic, Drama, Satire 
+"
+Война и мир. Том 4,1869,Tolstoy,prose,"Realism, Epic, Satire, Drama 
+"
+Воскресение,1899,Tolstoy,prose,"Realism, Epic, Drama, Satire 
+"
+Два гусара,1856,Tolstoy,prose,"Realism, Satire, Epic, Drama 
+"
+Декабристы,1860,Tolstoy,prose,"Realism, Satire, Epic, Drama 
+"
+Детство,1852,Tolstoy,prose,"Realism, Satire, Epic, Drama 
+"
+Дьявол,1889,Tolstoy,prose,"Realism, Epic, Drama 
+"
+Записки маркера,1853,Tolstoy,prose,"The text best fits the following genres: 
+
+Realism, Satire, Epic, Drama 
+"
+Записки сумасшедшего,1903,Tolstoy,prose,"The provided text exhibits elements of: **Realism, Gothic, Satire, Epic, Drama** 
+
+Here's why:
+
+* **Realism:** The text focuses on the psychological struggles of a man dealing with a gradual descent into madness. It portrays his inner turmoil and doubts with a realistic and introspective approach, focusing on the social and personal pressures he faces.
+* **Gothic:**  The text utilizes elements of the Gothic, particularly through the use of vivid imagery, heightened emotions, and a sense of impending doom. The recurring motif of fear, death, and the supernatural adds a Gothic flavor to the narrative.
+* **Satire:**  Tolstoy's narrative subtly satirizes societal norms and religious hypocrisy through the protagonist's evolving belief system. There are hints of mockery towards the superficiality of societal expectations and the blind faith in religious rituals.
+* **Epic:** The story encompasses a significant period of the protagonist's life, tracing his journey through multiple experiences and internal transformations. It delves into profound philosophical and religious questions, placing it within the realm of the epic.
+* **Drama:** The text is written with a dramatic flair, focusing on the protagonist's internal conflicts, intense emotions, and moments of high tension. The narrative is built on his journey of self-discovery and struggle, which makes it dramatic. 
+"
+Из записок князя Д. Нехлюдова (Люцерн),1857,Tolstoy,prose,"Realism, Satire, Epic, Drama 
+"
+Кавказский пленник,1872,Tolstoy,prose,"The best single-word genres that describe the text are: **Realism, Epic, Drama**. 
+
+Here's why:
+
+* **Realism:** The story focuses on the realistic portrayal of everyday life in the Caucasus during a war, with detailed descriptions of the landscape, customs, and struggles of the characters. 
+* **Epic:** The story features a hero (Жилин) who faces many challenges and endures hardships on his journey, making it resemble an epic tale.
+* **Drama:** The story is filled with conflict, suspense, and emotional moments, elements that are characteristic of drama. 
+
+The other genres are not as fitting:
+
+* **Romanticism:**  While there are elements of bravery and adventure, the story lacks the strong emphasis on emotion, idealized settings, and supernatural elements typical of Romanticism.
+* **Symbolism:** The story does not utilize significant symbolism or allegory.
+* **Modernism:**  The story lacks the experimental techniques, stream of consciousness, or focus on inner psychology characteristic of Modernism.
+* **Socialist Realism:** The story doesn't advocate for a specific political ideology.
+* **Science Fiction:** There are no science fiction elements.
+* **Gothic:** The story lacks the dark, supernatural elements of Gothic literature.
+* **Satire:** The story doesn't use humor to critique society or institutions.
+* **Mystery and Detective Fiction:**  The story is not focused on solving a mystery or crime. 
+"
+Казаки,1863,Tolstoy,prose,"Realism, Epic, Drama 
+"
+Корней Васильев,1905,Tolstoy,prose,"Realism, Epic, Drama 
+"
+Крейцерова соната,1890,Tolstoy,prose,"The best single-word genre to describe ""Крейцерова соната"" is **Realism**. 
+
+While there are elements of other genres present, Realism is the most dominant and defining characteristic of the work. 
+
+Here's why:
+
+* **Realism:** Tolstoy's writing is known for its detailed portrayal of everyday life, social issues, and the psychological complexities of his characters. ""Крейцерова соната"" explores the themes of adultery, jealousy, and societal pressures in a realistic and unflinching manner.
+
+The other genres listed are less applicable:
+
+* **Romanticism:** While there are emotional elements, the focus is on the harsh realities of life, rather than idealized emotions or supernatural themes.
+* **Symbolism:** The work uses some symbolism, but it's not central to the narrative.
+* **Modernism:** This genre emerged later than Tolstoy's writing and focuses on more experimental techniques.
+* **Socialist Realism:** While the novel critiques social issues, it doesn't adhere to the strict artistic principles of Socialist Realism.
+* **Science Fiction, Gothic, Satire, Epic, Mystery and Detective Fiction:** These genres are not present in the work. 
+
+While ""Drama"" could be considered, Realism is a more precise descriptor of the work's overall style. 
+"
+Метель,1856,Tolstoy,prose,"Realism, Epic, Drama 
+"
+Набег,1853,Tolstoy,prose,"Realism, Epic, Drama 
+"
+Отец Сергий,1890,Tolstoy,prose,"Realism, Epic, Drama 
+"
+Отрочество,1854,Tolstoy,prose,"Realism, Gothic, Satire, Drama 
+"
+Поликуша,1862,Tolstoy,prose,"Realism, Satire, Epic, Drama 
+"
+После бала,1903,Tolstoy,prose,"Realism, Romanticism, Satire, Drama 
+"
+Праведный судья,1910,Tolstoy,prose,"The text best fits the genres: **Realism, Satire, Epic**. 
+
+Here's why:
+
+* **Realism:** The story focuses on everyday characters and situations, with a focus on depicting the social world realistically. 
+* **Satire:** The story uses humor and exaggeration to criticize human folly, specifically the injustice and corruption within the legal system. The portrayal of the judge's cleverness and the absurdity of some of the cases is satirical in nature.
+* **Epic:** The story has elements of a traditional epic, with a journey, a wise and just ruler (the judge), and a theme of justice and morality. The inclusion of the king's disguise adds to the epic quality. 
+
+The other genres don't fit:
+
+* **Romanticism:** The story lacks the typical romantic themes of emotional intensity, the sublime, or idealized characters.
+* **Symbolism:** There are no significant symbols or allegorical meanings in the text.
+* **Modernism:** The story lacks the experimental techniques and subjective narratives often associated with Modernism.
+* **Socialist Realism:** The story does not promote socialist ideals or depict working-class struggles.
+* **Science Fiction:** There are no futuristic elements or scientific concepts.
+* **Gothic:** The story lacks the dark, mysterious, and supernatural elements typical of Gothic literature.
+* **Mystery and Detective Fiction:** While there is an element of mystery in the initial setup, the story focuses more on the judge's wisdom than on solving a crime. 
+* **Drama:**  The text is narrative, not written in the format of a play. 
+"
+Работник Емельян и пустой барабан,1910,Tolstoy,prose,"The text best fits the following genres: 
+
+* **Epic**
+* **Satire** 
+"
+Разжалованный,1856,Tolstoy,prose,"Realism, Satire, Epic 
+"
+Рубка леса,1855,Tolstoy,prose,"Realism, Satire, Epic, Drama 
+"
+Севастополь в августе 1855 года,1855,Tolstoy,prose,"Realism, Epic, Drama 
+"
+Севастополь в декабре месяце,1855,Tolstoy,prose,"Realism, Epic, Drama 
+"
+Севастополь в мае,1855,Tolstoy,prose,"Realism, Satire, Epic, Drama 
+"
+Семейное счастье,1859,Tolstoy,prose,"Realism, Epic, Drama 
+"
+Смерть Ивана Ильича,1886,Tolstoy,prose,"Realism, Drama, Satire 
+"
+Три смерти,1859,Tolstoy,prose,"Realism, Epic, Drama 
+"
+Утро пемещика,1856,Tolstoy,prose,"Realism, Satire, Epic, Drama 
+"
+Хаджи-Мурат,1896,Tolstoy,prose,"Realism, Epic, Drama 
+"
+Хозяин и работник,1895,Tolstoy,prose,"Realism, Satire, Epic 
+"
+Холстомер,1886,Tolstoy,prose,"Realism, Epic, Satire 
+"
+Юность,1857,Tolstoy,prose,"Realism, Satire, Epic, Drama 
+"
+Ягоды,1905,Tolstoy,prose,"Realism, Satire 
+"
+Ася,1858,Turgenev,prose,"Realism, Romanticism, Drama 
+"
+Вешние воды,1872,Turgenev,prose,"The best single-word genres that describe the text are: 
+
+Realism, Romanticism, Satire, Epic, Drama 
+"
+Дворянское гнездо,1859,Turgenev,prose,"Realism, Drama 
+"
+Дым,1867,Turgenev,prose,"Realism, Satire, Epic, Drama 
+"
+Записки охотника,1852,Turgenev,prose,"Realism, Satire 
+"
+Муму,1852,Turgenev,prose,"Realism, Satire, Epic, Drama 
+"
+Отцы и дети,1862,Turgenev,prose,"The best single-word genres that describe the text above are: 
+
+* **Realism** 
+* **Satire**
+* **Epic** 
+* **Drama** 
+"
+Первая любовь,1860,Turgenev,prose,"Realism, Romanticism, Gothic 
+"
+Стихотворения в прозе,1878,Turgenev,prose,"Realism, Symbolism, Satire, Epic, Drama 
+"
+Яков Пасынков,1855,Turgenev,prose,"Realism, Romanticism, Satire, Epic 
+"
+Алтарь победы,1912,Bryusov,prose,"The best single-word genres to describe the text are: **Epic, Gothic, Satire, Romanticism**. 
+
+Here's why:
+
+* **Epic:** The text has a grand scope, dealing with themes of power, religion, love, and betrayal. It features extensive descriptions of historical events and characters, and it follows a protagonist through a journey of transformation.
+* **Gothic:** The text has elements of the gothic genre:  a focus on the dark and mysterious, supernatural occurrences (visions and prophecies), a sense of dread and decay, and a protagonist consumed by passion and facing dangerous situations.
+* **Satire:** The text uses humor and irony to critique societal flaws and institutions, especially the hypocrisy of Christianity and the corruption of Roman society. 
+* **Romanticism:** The text displays romantic themes: an emphasis on individual emotion, idealized characters (especially the female figures), and a yearning for something beyond the ordinary. 
+
+While the text touches upon other genres, they are less prominent:
+
+* **Realism:** The text is not primarily concerned with detailed realistic depictions of daily life, though some scenes are rendered with specificity.
+* **Symbolism:** The text uses some symbols, but it's not a defining element.
+* **Modernism:** The text isn't experimental or avant-garde in style, lacking the modernist focus on fragmentation or stream-of-consciousness.
+* **Socialist Realism:** The text doesn't promote socialist ideology or glorify the working class.
+* **Science Fiction:**  The text lacks futuristic technology or settings.
+* **Mystery and Detective Fiction:** The text has some elements of suspense and intrigue, but it doesn't follow a traditional mystery plot.
+* **Drama:** The text is narrated in prose, lacking the traditional structure of a play. 
+"
+Бемоль,1903,Bryusov,prose,"Realism, Symbolism 
+"
+В башне,1903,Bryusov,prose,"The text most closely aligns with these genres: **Romanticism, Gothic, Epic, Drama**. 
+
+Here's why:
+
+* **Romanticism:**  The text emphasizes strong emotions, the power of love, and a yearning for the past. The protagonist's passionate love for Matilde, his sense of patriotism, and the dream-like quality of the narrative are all hallmarks of Romanticism.
+* **Gothic:** The story takes place in a dark, imposing castle with a sinister atmosphere. The sense of imprisonment, the impending threat of violence, and the use of supernatural elements (dreams, visions) contribute to the Gothic genre.
+* **Epic:** The story covers a significant period of time, with events that have historical resonance (the Battle of the Ice). It features heroic figures, a quest (for freedom), and a grand sense of scale, characteristic of epics.
+* **Drama:** The story unfolds through a series of conflicts and dramatic tension. The protagonist's love for Matilde, his captivity, and his eventual defiance against his captors create a dramatic arc. 
+
+While there might be elements of other genres, these four are most prominent. 
+"
+В зеркале,1903,Bryusov,prose,"The text best fits the genres: **Symbolism, Gothic, Modernism**. 
+
+Here's why:
+
+* **Symbolism:** The mirror acts as a central symbol for the protagonist's identity, her relationship with her reflection, and the nature of reality vs. illusion. 
+* **Gothic:** The story has elements of the gothic: a focus on the uncanny and eerie, themes of imprisonment and obsession, a haunted atmosphere, and a sense of the supernatural.
+* **Modernism:** The text delves into the fragmented nature of identity, the exploration of subjective experience, and a questioning of traditional perceptions of reality. 
+
+While the story has elements of other genres, these three are the most prominent:
+
+* **Realism:**  There are realistic elements, but the focus on the psychological and symbolic aspects overshadows strict realism.
+* **Romanticism:** While some emotional intensity and emphasis on the individual are present, the story lacks the characteristic focus on nature and idealized love.
+* **Socialist Realism:**  The text doesn't address social or political issues central to Socialist Realism.
+* **Science Fiction:** The story isn't set in a futuristic or technologically advanced world.
+* **Satire:** The story lacks the satirical humor aimed at ridiculing societal norms.
+* **Epic:** The story is too focused on individual experience to be considered an epic.
+* **Drama:** While the story has elements of conflict and suspense, it's not structured as a dramatic play.
+* **Mystery and Detective Fiction:** The text doesn't feature a mystery or a detective seeking to solve a crime. 
+"
+В подземной тюрьме,1903,Bryusov,prose,"Gothic, Mystery 
+"
+Восстание машин,1908,Bryusov,prose,"The genres that best describe the text are: 
+Science Fiction, Gothic,  Modernism,  Epic, Drama 
+"
+Гора Звезды,1899,Bryusov,prose,"The text exhibits elements of several genres, but the most prominent are:
+
+* **Gothic**
+* **Romanticism**
+* **Science Fiction**
+* **Epic** 
+* **Drama** 
+
+Here's why:
+
+* **Gothic:**  The text features a dark and mysterious atmosphere, an isolated setting (the Proклятая пустыня and the Гора Звезды),  supernatural elements (the demons, the ""higher beings""), and a focus on death and decay.
+* **Romanticism:**  The narrative highlights strong emotions, the power of nature (especially the dramatic storm and the destruction of the Гора Звезды), and a fascination with the exotic and the unknown.
+* **Science Fiction:** The story incorporates elements of interplanetary travel, advanced technology, and a hidden civilization with its own unique culture.
+* **Epic:** The text features a grand scope, a journey across a perilous landscape, a quest for knowledge and discovery, and a tragic love story.
+* **Drama:** The narrative features a compelling plot with conflict, high stakes, and a climactic resolution. 
+
+While there are elements of Realism and Symbolism, they are not the defining features of the text.  Socialist Realism, Satire, Mystery and Detective Fiction do not apply to this narrative. 
+"
+Декадент,1894,Bryusov,prose,"The text above exhibits elements of the following genres: 
+
+* **Realism**
+* **Romanticism**
+* **Symbolism** 
+* **Modernism** 
+* **Satire** 
+"
+Дитя и безумец,1902,Bryusov,prose,"The best genres to describe the text are: **Realism, Symbolism, Gothic**. 
+
+Here's why:
+
+* **Realism:** The story portrays everyday life and characters with a focus on social realities. It deals with family dynamics, societal expectations, and a sense of social class.
+* **Symbolism:** The story is rich in symbolic elements, such as the journey to Bethlehem, the characters of the old man (representing faith) and the girl (representing innocence), and the motif of blindness (represented by the man in spectacles). 
+* **Gothic:** The story has elements of the gothic: darkness, isolation, fear, the supernatural (the old man's escape from the asylum), and a sense of the uncanny. 
+
+While the story does touch upon themes of religious faith and societal hypocrisy, it doesn't fit neatly into the categories of Satire or Drama. It also lacks the elements of Science Fiction, Modernism, Socialist Realism, Epic, Mystery and Detective Fiction. 
+"
+За себя или за другую,1910,Bryusov,prose,"Realism, Symbolism,  Drama, Mystery 
+"
+Защита,1904,Bryusov,prose,"The best single-word genres that describe the text are: **Gothic, Realism, Symbolism, and Drama**. 
+
+Here's why:
+
+* **Gothic:** The story features supernatural elements (the ghost of the husband), a sense of dread and mystery, and a dark, atmospheric setting.
+* **Realism:** The story is grounded in a believable social context (military officers, a wealthy widow) and portrays emotions and motivations realistically, despite the supernatural elements.
+* **Symbolism:** The ghost of the husband can be interpreted as a symbol of Elena's unwavering devotion and the narrator's guilt and fear.
+* **Drama:**  The story revolves around a conflict (the narrator's love for Elena) and explores themes of love, loss, obsession, and the supernatural. 
+"
+Моцарт,1915,Bryusov,prose,"Realism, Romanticism, Symbolism, Modernism, Drama 
+"
+Мраморная головка,1903,Bryusov,prose,"The text above can be classified as: **Realism, Symbolism, Drama**. 
+
+Here's why:
+
+* **Realism:** The story focuses on a realistic portrayal of the protagonist's life, including his struggles with poverty, alcoholism, and the complexities of memory and regret. 
+* **Symbolism:** The marble head of Nina acts as a powerful symbol of lost love, beauty, and the elusive nature of memory. This symbol drives the narrative and evokes strong emotions in the protagonist. 
+* **Drama:** The story unfolds through a dramatic internal conflict within the protagonist, who grapples with his past, guilt, and the search for redemption. The reader is engaged in his emotional journey and the consequences of his actions. 
+
+While elements of Romanticism (focus on emotions, idealized love) and Gothic (the unsettling nature of the protagonist's memories and the mysterious past of the marble head) are present, they are not the primary genres defining the text. 
+"
+Ночное путешествие,1908,Bryusov,prose,"The text leans heavily towards **Symbolism, Gothic, and Satire**. 
+
+Here's why:
+
+* **Symbolism:** The text is rich in symbolic imagery. The ""living plants"" represent something more than just flora, possibly human desires or the blind pursuit of pleasure. The ""four moons"" and ""rainbow sky"" could symbolize different aspects of the universe or spiritual realms. 
+* **Gothic:** The story has a distinct gothic atmosphere with its focus on the supernatural, the dark and ominous descriptions, and the encounter with the Devil. 
+* **Satire:** The text satirizes human limitations and the arrogance of the protagonist. The scene where the protagonist is bored by the ""world"" the Devil shows him, and then casts him out with a magical formula, is a clear example of this. 
+
+The other genres don't fit as well:
+
+* **Realism, Romanticism, Modernism, Socialist Realism:** The story is too fantastic and symbolic to fit into these movements.
+* **Science Fiction:** While the story deals with extraterrestrial worlds, it lacks the scientific rigor and future-oriented focus common in science fiction. 
+* **Epic:** The story is too short and focused on a single encounter to be considered epic.
+* **Drama, Mystery and Detective Fiction:** These genres aren't evident in the text. 
+"
+Обручение Даши,1913,Bryusov,prose,"The best single-word genres that describe the text are: 
+Realism, Satire 
+"
+Огненный ангел,1908,Bryusov,prose,"Gothic, Satire, Epic, Drama, Mystery 
+"
+Первая любовь,1904,Bryusov,prose,"The text best fits the following genres: 
+
+Realism, Romanticism, Symbolism 
+"
+Под Старым мостом,1903,Bryusov,prose,"Realism, Romanticism, Gothic 
+"
+Последние мученики,1906,Bryusov,prose,"Here are the genres that best fit the text, in order of relevance:
+
+* **Symbolism** 
+* **Gothic**
+* **Romanticism**
+* **Epic**
+* **Drama** 
+
+Let's break down why:
+
+* **Symbolism:** The text heavily relies on symbolism throughout. The religious rituals, the focus on the ""Symbol"", the contrasting  ""light and darkness"" imagery, and the ecstatic, almost mystical experiences all point to Symbolism. 
+* **Gothic:** The setting (a cathedral at night), the themes of death, violence, and the supernatural (the ""Blind Mystery""), and the heightened emotional states all evoke Gothic elements. 
+* **Romanticism:** The passionate language, emphasis on individual experience, and the celebration of  beauty and sensuality align with Romanticism.
+* **Epic:** The scope of the story, the large cast of characters, the depiction of a historical event, and the exploration of grand themes like faith and revolution contribute to an epic feel.
+* **Drama:** The text has strong dramatic elements, including a clear conflict, rising tension, and a tragic ending. 
+
+While Realism, Modernism, and Socialist Realism are not present, the text does touch on elements of:
+
+* **Satire:** The portrayal of the revolutionaries as barbaric and uncultured can be seen as satirical, criticizing their actions.
+* **Mystery and Detective Fiction:** The beginning of the story has a mystery element as the narrator tries to understand what is happening in the chaos of the city.
+
+Ultimately, the text is a complex blend of these genres, creating a unique and powerful narrative. 
+"
+Последние страницы из дневника женщины,1910,Bryusov,prose,"The best single-word genres to describe the text are: 
+
+* **Realism** 
+* **Modernism** 
+* **Gothic**
+* **Mystery and Detective Fiction** 
+
+Here's why:
+
+* **Realism:** The text portrays a realistic depiction of upper-class Russian society in the early 20th century, focusing on social customs, relationships, and the psychology of the characters. 
+* **Modernism:** The text explores themes of alienation, self-discovery, and the fragmentation of identity, characteristic of Modernist literature.  It also utilizes non-linear narrative structure and stream-of-consciousness narration.
+* **Gothic:** The text features elements of the Gothic genre, such as a dark and mysterious atmosphere,  the presence of death, a focus on psychological turmoil, and a sense of the supernatural (e.g., the ""dark feeling"" from death, the emphasis on mysterious letters, the use of symbolism and foreshadowing). 
+* **Mystery and Detective Fiction:**  The text centers around the unsolved murder of the protagonist's husband, with the protagonist actively seeking clues and confronting suspects. The mystery is intertwined with the personal and emotional aspects of the narrative. 
+
+The other options are less relevant:
+
+* **Romanticism:** While there are elements of passion and emotional intensity, the text overall doesn't align with the idealistic and emotional focus of Romanticism.
+* **Symbolism:**  The text uses symbolism, but it's not the central driving force of the narrative as it is in Symbolism.
+* **Socialist Realism:** The text doesn't focus on promoting socialist values or ideals. 
+* **Science Fiction:** There are no elements of science fiction.
+* **Satire:** While there are moments of irony and critique of societal norms, the text isn't primarily satirical.
+* **Epic:** The text lacks the vast scope and heroic narrative typical of epic literature.
+* **Drama:** While the text has dramatic elements, it's not a play. 
+"
+Предсмертный бред Вергилия,1914,Bryusov,prose,"Realism, Epic, Drama 
+"
+"Рассказы Маши, с реки Мологи, под городом Устюжна",1906,Bryusov,prose,"The text best fits the genres: **Gothic, Epic**. 
+
+Here's why:
+
+* **Gothic:** The text is full of elements of the Gothic genre: supernatural creatures (dvorovy, domovoy, bayechnik, leshiy, rusalka), spooky and terrifying encounters, emphasis on fear and superstition, death and the macabre, and atmospheric descriptions that create a sense of dread. 
+* **Epic:** The text has a story-telling quality that encompasses a large scope of events, covering various characters, creatures, and beliefs. It also presents a narrative of folk beliefs and traditions within a specific community, creating a sense of epic scale.
+
+The other genres are less relevant:
+
+* **Realism:** While the text touches on some aspects of everyday life, it is heavily reliant on the supernatural, making it less realistic.
+* **Romanticism:** The focus on nature and the supernatural is somewhat Romantic, but the tone is more grounded in fear and folklore.
+* **Symbolism:** While symbolism could be present, it is not the primary focus.
+* **Modernism:** The text is not modernist in its style or themes. 
+* **Socialist Realism:**  The text does not deal with social issues or themes of socialist realism.
+* **Science Fiction:** No science fiction elements are present.
+* **Satire:** The text is not satirical in its intent.
+* **Drama:** While the text could be adapted for a dramatic setting, its focus is more on the storytelling itself.
+* **Mystery and Detective Fiction:** There are no elements of mystery or detective fiction in the text. 
+"
+Рея Сильвия,1914,Bryusov,prose,"The genres that best describe the text are: **Romanticism, Gothic, Epic, Drama, Symbolism**. 
+
+Here's why:
+
+* **Romanticism:** The text emphasizes emotions, imagination, and individual experiences.  Maria's intense dreams, idealized vision of the past, and passionate love for the imagined ""Theodat"" are hallmarks of Romanticism. 
+* **Gothic:** The story features a decaying setting (ancient Rome), a sense of mystery and the supernatural (Maria's mental state, the hidden Golden House), and a tragic ending. These elements are common in Gothic literature.
+* **Epic:** The story has a grand scope, focusing on ancient Rome and its mythical history, and features a protagonist (Maria) who embodies a larger-than-life vision of heroism and sacrifice.
+* **Drama:** The text unfolds as a narrative with a compelling plot, conflict, and character development. The tragic fate of Maria, the secret love affair, and the clash between reality and fantasy create dramatic tension.
+* **Symbolism:** Many elements in the story hold symbolic meanings. The Golden House symbolizes the lost glory of Rome, Maria represents the idealized past, and her mental state might symbolize the decline of Roman culture. 
+
+While Realism, Modernism, Socialist Realism, Science Fiction, Satire, Mystery and Detective Fiction are not present in the text, elements of **Realism** can be seen in the portrayal of the harsh living conditions of the time. 
+"
+Семь земных соблазнов,1911,Bryusov,prose,"The text above can be categorized as:  **Symbolism, Modernism, Gothic, Satire, Epic, Drama** 
+
+Here's a breakdown of why:
+
+* **Symbolism:**  The text uses vivid imagery and recurring symbols to convey deeper meanings. The ""Sphinx""  and the ""Sphinx-like"" characters are prime examples of symbolic representation. 
+* **Modernism:** The novel reflects many key themes and techniques of Modernism:
+    * **Breakdown of traditional narratives:** The story is fragmented, nonlinear, and introspective.
+    * **Focus on subjective experience:** The protagonist's inner thoughts and feelings are central to the narrative.
+    * **Social critique:** The text challenges societal norms and power structures, specifically those related to wealth and social inequality. 
+* **Gothic:** The text features elements of the Gothic genre:
+    * **Dark and ominous atmosphere:** The city is portrayed as a place of shadows, secrets, and moral decay.
+    * **Psychological suspense:** The protagonist experiences inner conflict and moral ambiguity.
+    * **Supernatural elements:** The ""Sphinx"" and the ""Sphinx-like"" characters create an element of mystery and the uncanny. 
+* **Satire:** The text satirizes societal values and institutions:
+    * **Wealth and power:** The portrayal of the wealthy and powerful, like Peter Wartsrem, is highly critical.
+    * **Social inequality:** The stark contrast between the lives of the wealthy and the working class is satirical.
+    * **Hypocrisy:** The ""hotel"" for the bank employees is a satirical representation of control and manipulation. 
+* **Epic:** The novel has a large scope, covering a journey from the provinces to the capital city, encompassing themes of social mobility, power, and personal transformation.
+* **Drama:** The text features a compelling plot with conflict, internal struggles, and impactful moments. 
+
+It's important to note that while the text exhibits elements of realism, the emphasis on the symbolic and the fantastical elements pushes it beyond a purely realistic approach.  It's also worth mentioning that the text doesn't  fully embrace Socialist Realism, Science Fiction, Mystery and Detective Fiction. While it has elements that could be seen in those genres, they are not central to its overall narrative structure and themes. 
+"
+Сестры,1906,Bryusov,prose,"The text above can be categorized as:  **Symbolism, Modernism, Gothic, Drama, Mystery and Detective Fiction**. 
+
+Here's why:
+
+* **Symbolism:** The story is rich in symbolic imagery, particularly the recurring motifs of snow, darkness, and the three sisters representing different facets of love and desire.
+* **Modernism:** The text explores themes of psychological introspection, fragmented consciousness, and the breakdown of traditional societal norms, hallmarks of Modernist literature.
+* **Gothic:** The story is steeped in a sense of gloom, psychological terror, and supernatural elements (like the hallucinations and the death of the child).
+* **Drama:** The text features intense emotional conflict and dramatic events, with the relationships between the characters driving the narrative.
+* **Mystery and Detective Fiction:** The story involves a crime, leaving the reader to unravel the truth about the deaths of the sisters and the possible involvement of Nikolai.  The final lines imply that there's a mystery left unsolved, drawing on the conventions of detective fiction. 
+
+The other genres listed are less applicable:
+
+* **Realism:** While the story has realistic elements, the focus on psychological exploration and symbolic elements leans away from strict realism.
+* **Romanticism:** The story lacks the idealized views of love and nature often associated with Romanticism.
+* **Socialist Realism:** There is no emphasis on social class or revolutionary struggle present in Socialist Realism.
+* **Science Fiction:** There are no elements of futuristic technology or science-based themes.
+* **Satire:** The story is not primarily focused on mocking or ridiculing any societal institutions or individuals.
+* **Epic:** The story lacks the grand scope and heroic figures characteristic of epic literature. 
+"
+"Теперь, - когда я проснулся...",1903,Bryusov,prose,"Gothic, Symbolism, Modernism, Drama 
+"
+Через пятнадцать лет,1909,Bryusov,prose,"Realism, Modernism, Drama 
+"
+"Элули, сын Элули",1915,Bryusov,prose,"Gothic, Realism, Epic 
+"
+Юпитер поверженный,1934,Bryusov,prose,"The text above displays elements of several genres, but the most prominent are: 
+
+* **Epic:**  The text tells a long and complex story with a hero, numerous characters, and a grand scope. 
+* **Gothic:** The story features themes of dark passion, death, supernatural elements (like curses and charms), and a sense of psychological unease.
+* **Romanticism:** It highlights emotional intensity, passionate love,  and a focus on individual experience.
+* **Realism:** The text attempts to depict a believable social setting, including realistic characters and events,  even while incorporating supernatural and fantastical elements. 
+
+The text also touches on elements of **Drama** (through dialogue and emotional conflict) and **Satire** (through its portrayal of the characters' flaws and societal hypocrisy).
+"
+Девушка розовой калитки и муравьиный царь,1906,Blok,prose,"The best single-word genres to describe the text are: **Romanticism, Symbolism, Gothic**. 
+
+Here's why:
+
+* **Romanticism:** The text heavily emphasizes emotional response, a focus on nature and its beauty, and a longing for the past and idealization of it. It also features a strong sense of individual experience and introspection. 
+* **Symbolism:** The text uses a multitude of symbols to convey meaning beyond the literal. Examples include the rose, the ""ever-feminine,"" the German castle, the Russian peasant, and the ""ant king.""
+* **Gothic:** The text has elements of the Gothic, including a focus on decaying grandeur, dark themes of love and death, the supernatural (the ""ant king""), and an eerie atmosphere.
+
+While the text touches on other genres, these three are the most prominent and interconnected. 
+"
+"Сказка о той, которая не поймет её",1907,Blok,prose,"The text most closely aligns with these genres: **Romanticism, Symbolism, Gothic**. 
+
+Here's why:
+
+* **Romanticism:** The text is rich with emotional intensity, focusing on the protagonist's internal struggles and the overwhelming power of love and passion.  The focus on individual experiences, the idealized beauty of the woman, and the use of nature as a reflection of the protagonist's inner state are all hallmarks of Romanticism.
+* **Symbolism:**  The story uses numerous symbols, such as the ""dark woman"", the ""snake"", the ""moon"", and the ""comet"", to convey deeper meanings beyond literal interpretation. These symbols represent the conflicting forces of passion, temptation, darkness, and fate.
+* **Gothic:**  The story features elements of the Gothic genre such as a mysterious and alluring woman, a sense of doom and impending tragedy, the use of supernatural imagery, and a focus on the dark and unsettling aspects of human nature. 
+
+While the story might have elements of other genres, these three are the most prominent. 
+"
+Сограждане,1918,Blok,prose,"Satire, Realism, Modernism 
+"
+"Ни сны, ни явь",1921,Blok,prose,"Here's a breakdown of the genres and why they apply (or don't) to the text:
+
+* **Realism:**  ✅ This is the strongest fit. The story depicts characters and events with a sense of everyday reality,  grounded in the specific time and place (early 20th century Russia).
+* **Romanticism:** ❔  There are elements of romanticism:  an emphasis on emotion, a longing for the past, and a somewhat idealized depiction of nature. However, the overall tone is too bleak and disillusioned for a pure romanticism label.
+* **Symbolism:** ✅  There are definitely symbolic elements: the  ""political"" figure, the recurring imagery of the ""soul,"" the ambiguous ending. 
+* **Modernism:** ✅   The text reflects some modernistic tendencies: a fragmented narrative, stream-of-consciousness elements, and a focus on the subjective experience of the characters. 
+* **Socialist Realism:** ❌ This genre, meant to promote Soviet ideology, doesn't fit the text's  pessimistic tone and ambiguous view of social change.
+* **Science Fiction:** ❌ There are no elements of science fiction like futuristic technology or alien worlds.
+* **Gothic:** ❔ There are elements of Gothic:  a sense of dread, the supernatural, and a brooding atmosphere. But it's not central to the story. 
+* **Satire:** ❔  The story has some satirical elements,  like the caricature of the ""political"" figure. However,  it's not the main focus. 
+* **Epic:** ❌   The story lacks the large-scale historical sweep and heroic figures typical of epics.
+* **Drama:** ❔  There is dramatic tension and internal conflict, but the story's lack of a clear plot or characters makes it less of a conventional drama.
+* **Mystery and Detective Fiction:** ❌ There's no mystery to be solved or a detective figure. 
+
+**Best Genre Fits:**
+
+The text most closely aligns with **Realism, Symbolism, and Modernism**. 
+"
+Арап Петра Великого,1827,Pushkin,prose,"Realism, Satire, Epic 
+"
+Дубровский,1833,Pushkin,prose,"Realism, Romanticism, Gothic, Satire, Epic, Drama 
+"
+Египетские ночи,1835,Pushkin,prose,"The genres that best describe the text are: **Romanticism, Satire, Drama**. 
+"
+История Пугачёва,1834,Pushkin,prose,"The text above is best described as: **Realism, Epic, Drama** 
+
+Here's why:
+
+* **Realism:** The text focuses on historical events and characters in a detailed and grounded way. It presents a factual account of the Pugachev rebellion with an emphasis on historical accuracy and social context. 
+* **Epic:** The text tells a grand story of a major historical event that spans a significant period and involves a vast cast of characters. The story's scope and detail contribute to its epic nature.
+* **Drama:** The text depicts a conflict-ridden narrative with high stakes, dramatic moments, and the portrayal of powerful emotions. The rebellion itself is a dramatic event, and the text effectively conveys the tension and suffering it caused.
+
+The other genres are not as fitting:
+
+* **Romanticism:** While the text has moments of emotional intensity, it lacks the emphasis on imagination, supernatural elements, and individual expression that are characteristic of Romanticism.
+* **Symbolism:**  The text primarily presents a straightforward historical account, not one heavily reliant on symbolism or allegorical meaning.
+* **Modernism:** The text doesn't feature the experimentation with form, fragmented narratives, or psychological exploration that define Modernism. 
+* **Socialist Realism:** The text doesn't focus on promoting a socialist agenda or idealizing the working class in its depiction of the rebellion.
+* **Science Fiction:**  There are no elements of futuristic technology, space travel, or fantasy in the text.
+* **Gothic:** The text doesn't feature supernatural elements, dark settings, or psychological horror that define Gothic literature. 
+* **Satire:** While the text does critique certain aspects of the Russian government and society, it doesn't primarily use satire as its main mode of storytelling.
+* **Mystery and Detective Fiction:** The text focuses on a historical event, not a puzzle to be solved by a detective. 
+"
+История села Горюхина,1830,Pushkin,prose,"The text above best fits these genres:  **Realism, Satire, Epic.** 
+
+Here's why:
+
+* **Realism:** The text focuses on everyday life in a rural Russian village, portraying the characters and their struggles with a level of detail and authenticity that are characteristic of Realism.
+* **Satire:**  The text uses humor and exaggeration to critique the social and political systems of the time, particularly the harsh treatment of serfs by their landlords and the corruption of officials.  
+* **Epic:** The text spans a significant period of time, detailing the history of the village of Goryukhino, and features a cast of characters who embody certain archetypes. 
+
+While elements of other genres might be present (like elements of **Drama** in the narrative's emotional intensity and **Gothic** in the descriptions of the swamp), these three genres are the most prominent and defining characteristics of the text. 
+"
+Капитанская дочка,1833,Pushkin,prose,"Realism, Epic, Gothic, Satire, Drama 
+"
+Кирджали,1834,Pushkin,prose,"The text best fits these genres:  **Realism, Epic, Satire** 
+
+Here's why:
+
+* **Realism:** The story is grounded in a specific historical context (the Greek War of Independence) and focuses on the lives of ordinary people, like the klephts (bandits). The details are vivid and the characters, even the main character Kirjali, are flawed and motivated by realistic desires (wealth, survival).
+* **Epic:** The story has a scope that goes beyond the individual, telling a tale of rebellion, war, and the struggle for freedom.  It features a larger-than-life protagonist (Kirjali) and emphasizes themes of heroism and courage.
+* **Satire:** The story makes fun of the absurdity of the situation, particularly the incompetence of the Russian authorities and the gullibility of the Turkish guards. It also satirizes the romanticized image of the bandit through Kirjali's actions. 
+
+The other genres don't fit as well:
+
+* **Romanticism:**  While the story has elements of heroism and dramatic escape, it lacks the focus on individual emotion and idealized nature that defines Romanticism.
+* **Symbolism, Modernism, Socialist Realism, Science Fiction, Gothic:** These genres are not represented in the text.
+* **Mystery and Detective Fiction:** While there is a mystery surrounding Kirjali's whereabouts, the story doesn't have the emphasis on investigation or solving a crime that defines this genre.
+* **Drama:**  The text is written in narrative form, not as a play. 
+"
+Пиковая дама,1833,Pushkin,prose,"Realism, Gothic, Mystery, Satire 
+"
+Повести Белкина,1830,Pushkin,prose,"Realism, Romanticism, Gothic, Satire, Mystery 
+"
+Рославлев,1831,Pushkin,prose,"Realism, Satire 
 "
